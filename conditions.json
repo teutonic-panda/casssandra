@@ -1,0 +1,170 @@
+[
+  {
+    "id": "abalado",
+    "nome": "Abalado",
+    "descricao": "Sofre –2 em testes de ataque, perícia e resistência.",
+    "emoji": ":dizzy_face:",
+    "categoria": "mental"
+  },
+  {
+    "id": "apreensivo",
+    "nome": "Apreensivo",
+    "descricao": "Sofre –1 em testes de ataque e perícia.",
+    "emoji": ":confused:",
+    "categoria": "mental"
+  },
+  {
+    "id": "atordoado",
+    "nome": "Atordoado",
+    "descricao": "Perde sua ação e não pode reagir até o fim do turno.",
+    "emoji": ":dizzy:",
+    "categoria": "física"
+  },
+  {
+    "id": "caido",
+    "nome": "Caído",
+    "descricao": "Está no chão. Sofre –2 em ataques e Defesa contra corpo a corpo, mas +2 contra ataques à distância.",
+    "emoji": ":person_in_lotus_position:",
+    "categoria": "física"
+  },
+  {
+    "id": "cego",
+    "nome": "Cego",
+    "descricao": "Não enxerga. Sofre –5 em testes de Percepção e Defesa.",
+    "emoji": ":see_no_evil:",
+    "categoria": "física"
+  },
+  {
+    "id": "confuso",
+    "nome": "Confuso",
+    "descricao": "A cada turno, realiza uma ação aleatória: atacar aliado, ficar parado ou agir normalmente.",
+    "emoji": ":question:",
+    "categoria": "mental"
+  },
+  {
+    "id": "debilitado",
+    "nome": "Debilitado",
+    "descricao": "Sofre –2 em jogadas de ataque, dano e testes de resistência.",
+    "emoji": ":face_with_thermometer:",
+    "categoria": "física"
+  },
+  {
+    "id": "desprevenido",
+    "nome": "Desprevenido",
+    "descricao": "Perde o bônus de Destreza na Defesa.",
+    "emoji": ":open_mouth:",
+    "categoria": "física"
+  },
+  {
+    "id": "em_chamas",
+    "nome": "Em Chamas",
+    "descricao": "Recebe 1d6 de dano de fogo por rodada até apagar as chamas (teste de Reflexos CD 15).",
+    "emoji": ":fire:",
+    "categoria": "física"
+  },
+  {
+    "id": "envenenado",
+    "nome": "Envenenado",
+    "descricao": "Sofre –2 em testes de ataque, perícia e resistência. Pode sofrer dano periódico.",
+    "emoji": ":skull_crossbones:",
+    "categoria": "física"
+  },
+  {
+    "id": "enfraquecido",
+    "nome": "Enfraquecido",
+    "descricao": "Sofre –2 em testes de ataque e dano corpo a corpo.",
+    "emoji": ":muscle:",
+    "categoria": "física"
+  },
+  {
+    "id": "ensurdecido",
+    "nome": "Ensurdecido",
+    "descricao": "Não ouve. Sofre –5 em testes de Percepção baseados em audição.",
+    "emoji": ":hear_no_evil:",
+    "categoria": "física"
+  },
+  {
+    "id": "fatigado",
+    "nome": "Fatigado",
+    "descricao": "Sofre –2 em testes de ataque, perícia e Defesa.",
+    "emoji": ":sleeping:",
+    "categoria": "física"
+  },
+  {
+    "id": "fraco",
+    "nome": "Fraco",
+    "descricao": "Sofre –5 em testes de Força e jogadas de dano corpo a corpo.",
+    "emoji": ":droplet:",
+    "categoria": "física"
+  },
+  {
+    "id": "imovel",
+    "nome": "Imóvel",
+    "descricao": "Não pode se mover, mas pode agir normalmente.",
+    "emoji": ":chains:",
+    "categoria": "física"
+  },
+  {
+    "id": "inconsciente",
+    "nome": "Inconsciente",
+    "descricao": "Cai inconsciente. Está indefeso e caído.",
+    "emoji": ":sleeping_face:",
+    "categoria": "física"
+  },
+  {
+    "id": "invisivel",
+    "nome": "Invisível",
+    "descricao": "Não pode ser visto. Recebe +2 em testes de ataque e Defesa.",
+    "emoji": ":ghost:",
+    "categoria": "mágica"
+  },
+  {
+    "id": "lentificado",
+    "nome": "Lentificado",
+    "descricao": "Move-se com metade do deslocamento e só pode realizar uma ação por turno.",
+    "emoji": ":snail:",
+    "categoria": "mágica"
+  },
+  {
+    "id": "medo",
+    "nome": "Medo",
+    "descricao": "Foge da origem do medo ou sofre penalidades em ações ofensivas.",
+    "emoji": ":fearful:",
+    "categoria": "mental"
+  },
+  {
+    "id": "paralisado",
+    "nome": "Paralisado",
+    "descricao": "Não pode agir nem se mover. Está indefeso.",
+    "emoji": ":cold_face:",
+    "categoria": "física"
+  },
+  {
+    "id": "petrificado",
+    "nome": "Petrificado",
+    "descricao": "Transformado em pedra. É considerado objeto inanimado.",
+    "emoji": ":rock:",
+    "categoria": "mágica"
+  },
+  {
+    "id": "prostrado",
+    "nome": "Prostrado",
+    "descricao": "Perde sua ação e sofre –2 na Defesa até o próximo turno.",
+    "emoji": ":person_bowing:",
+    "categoria": "física"
+  },
+  {
+    "id": "sangrando",
+    "nome": "Sangrando",
+    "descricao": "Recebe 1d6 de dano por rodada até ser curado.",
+    "emoji": ":drop_of_blood:",
+    "categoria": "física"
+  },
+  {
+    "id": "surpreso",
+    "nome": "Surpreso",
+    "descricao": "Não pode agir na primeira rodada de combate.",
+    "emoji": ":astonished:",
+    "categoria": "mental"
+  }
+]
