@@ -1,170 +1,351 @@
 [
-  {
-    "id": "abalado",
-    "nome": "Abalado",
-    "descricao": "Sofre –2 em testes de ataque, perícia e resistência.",
-    "emoji": ":dizzy_face:",
-    "categoria": "mental"
-  },
-  {
-    "id": "apreensivo",
-    "nome": "Apreensivo",
-    "descricao": "Sofre –1 em testes de ataque e perícia.",
-    "emoji": ":confused:",
-    "categoria": "mental"
-  },
-  {
-    "id": "atordoado",
-    "nome": "Atordoado",
-    "descricao": "Perde sua ação e não pode reagir até o fim do turno.",
-    "emoji": ":dizzy:",
-    "categoria": "física"
-  },
-  {
-    "id": "caido",
-    "nome": "Caído",
-    "descricao": "Está no chão. Sofre –2 em ataques e Defesa contra corpo a corpo, mas +2 contra ataques à distância.",
-    "emoji": ":person_in_lotus_position:",
-    "categoria": "física"
-  },
-  {
-    "id": "cego",
-    "nome": "Cego",
-    "descricao": "Não enxerga. Sofre –5 em testes de Percepção e Defesa.",
-    "emoji": ":see_no_evil:",
-    "categoria": "física"
-  },
-  {
-    "id": "confuso",
-    "nome": "Confuso",
-    "descricao": "A cada turno, realiza uma ação aleatória: atacar aliado, ficar parado ou agir normalmente.",
-    "emoji": ":question:",
-    "categoria": "mental"
-  },
-  {
-    "id": "debilitado",
-    "nome": "Debilitado",
-    "descricao": "Sofre –2 em jogadas de ataque, dano e testes de resistência.",
-    "emoji": ":face_with_thermometer:",
-    "categoria": "física"
-  },
-  {
-    "id": "desprevenido",
-    "nome": "Desprevenido",
-    "descricao": "Perde o bônus de Destreza na Defesa.",
-    "emoji": ":open_mouth:",
-    "categoria": "física"
-  },
-  {
-    "id": "em_chamas",
-    "nome": "Em Chamas",
-    "descricao": "Recebe 1d6 de dano de fogo por rodada até apagar as chamas (teste de Reflexos CD 15).",
-    "emoji": ":fire:",
-    "categoria": "física"
-  },
-  {
-    "id": "envenenado",
-    "nome": "Envenenado",
-    "descricao": "Sofre –2 em testes de ataque, perícia e resistência. Pode sofrer dano periódico.",
-    "emoji": ":skull_crossbones:",
-    "categoria": "física"
-  },
-  {
-    "id": "enfraquecido",
-    "nome": "Enfraquecido",
-    "descricao": "Sofre –2 em testes de ataque e dano corpo a corpo.",
-    "emoji": ":muscle:",
-    "categoria": "física"
-  },
-  {
-    "id": "ensurdecido",
-    "nome": "Ensurdecido",
-    "descricao": "Não ouve. Sofre –5 em testes de Percepção baseados em audição.",
-    "emoji": ":hear_no_evil:",
-    "categoria": "física"
-  },
-  {
-    "id": "fatigado",
-    "nome": "Fatigado",
-    "descricao": "Sofre –2 em testes de ataque, perícia e Defesa.",
-    "emoji": ":sleeping:",
-    "categoria": "física"
-  },
-  {
-    "id": "fraco",
-    "nome": "Fraco",
-    "descricao": "Sofre –5 em testes de Força e jogadas de dano corpo a corpo.",
-    "emoji": ":droplet:",
-    "categoria": "física"
-  },
-  {
-    "id": "imovel",
-    "nome": "Imóvel",
-    "descricao": "Não pode se mover, mas pode agir normalmente.",
-    "emoji": ":chains:",
-    "categoria": "física"
-  },
-  {
-    "id": "inconsciente",
-    "nome": "Inconsciente",
-    "descricao": "Cai inconsciente. Está indefeso e caído.",
-    "emoji": ":sleeping_face:",
-    "categoria": "física"
-  },
-  {
-    "id": "invisivel",
-    "nome": "Invisível",
-    "descricao": "Não pode ser visto. Recebe +2 em testes de ataque e Defesa.",
-    "emoji": ":ghost:",
-    "categoria": "mágica"
-  },
-  {
-    "id": "lentificado",
-    "nome": "Lentificado",
-    "descricao": "Move-se com metade do deslocamento e só pode realizar uma ação por turno.",
-    "emoji": ":snail:",
-    "categoria": "mágica"
-  },
-  {
-    "id": "medo",
-    "nome": "Medo",
-    "descricao": "Foge da origem do medo ou sofre penalidades em ações ofensivas.",
-    "emoji": ":fearful:",
-    "categoria": "mental"
-  },
-  {
-    "id": "paralisado",
-    "nome": "Paralisado",
-    "descricao": "Não pode agir nem se mover. Está indefeso.",
-    "emoji": ":cold_face:",
-    "categoria": "física"
-  },
-  {
-    "id": "petrificado",
-    "nome": "Petrificado",
-    "descricao": "Transformado em pedra. É considerado objeto inanimado.",
-    "emoji": ":rock:",
-    "categoria": "mágica"
-  },
-  {
-    "id": "prostrado",
-    "nome": "Prostrado",
-    "descricao": "Perde sua ação e sofre –2 na Defesa até o próximo turno.",
-    "emoji": ":person_bowing:",
-    "categoria": "física"
-  },
-  {
-    "id": "sangrando",
-    "nome": "Sangrando",
-    "descricao": "Recebe 1d6 de dano por rodada até ser curado.",
-    "emoji": ":drop_of_blood:",
-    "categoria": "física"
-  },
-  {
-    "id": "surpreso",
-    "nome": "Surpreso",
-    "descricao": "Não pode agir na primeira rodada de combate.",
-    "emoji": ":astonished:",
-    "categoria": "mental"
-  }
+	{
+		"id": "C000",
+		"nome": "Abalado",
+		"cabecalho": null,
+		"descricao": "O personagem sofre -2 em testes de perícia. Se ficar abalado novamente, em vez disso fica apavorado. (Medo)",
+		"anexo": null,
+		"referencia": "T20 1.2.1, p.400",
+		"tipo": "Condição",
+		"origem": null
+	},
+	{
+		"id": "C001",
+		"nome": "Agarrado",
+		"cabecalho": null,
+		"descricao": "O personagem fica desprevenido e imóvel, sofre -2 em testes de ataque e só pode atacar com armas leves. Ataques à distância contra um alvo envolvido em uma manobra agarrar têm 50% de chance de acertar o alvo errado. (Movimento)",
+		"anexo": null,
+		"referencia": "T20 1.2.1, p.400",
+		"tipo": "Condição",
+		"origem": null
+	},
+	{
+		"id": "C0002",
+		"nome": "Alquebrado",
+		"cabecalho": null,
+		"descricao": "O custo em pontos de mana das habilidades do personagem aumenta em +1. (Mental)",
+		"anexo": null,
+		"referencia": "T20 1.2.1, p.400",
+		"tipo": "Condição",
+		"origem": null
+	},
+	{
+		"id": "C003",
+		"nome": "Apavorado",
+		"cabecalho": null,
+		"descricao": "O personagem sofre -5 em testes de perícia e não pode se aproximar voluntariamente da fonte do medo. (Medo)",
+		"anexo": null,
+		"referencia": "T20 1.2.1, p.400",
+		"tipo": "Condição",
+		"origem": null
+	},
+	{
+		"id": "C004",
+		"nome": "Atordoado",
+		"cabecalho": null,
+		"descricao": "O personagem fica desprevenido e não pode fazer ações. (Mental)",
+		"anexo": null,
+		"referencia": "T20 1.2.1, p.400",
+		"tipo": "Condição",
+		"origem": null
+	},
+	{
+		"id": "C005",
+		"nome": "Caído",
+		"cabecalho": null,
+		"descricao": "O personagem sofre –5 em ataques corpo a corpo e seu deslocamento é reduzido a 1,5m. Além disso, sofre –5 na Defesa contra ataques corpo a corpo e recebe +5 na Defesa contra ataques à distância (cumulativos com outras condições).",
+		"anexo": null,
+		"referencia": "T20 1.2.1, p.400",
+		"tipo": "Condição",
+		"origem": null
+	},
+	{
+		"id": "C006",
+		"nome": "Cego",
+		"cabecalho": null,
+		"descricao": "O personagem fica desprevenido e lento, não pode fazer testes de Percepção para observar e sofre –5 em testes de perícias baseadas em Força ou Destreza. Todos os alvos de seus ataques recebem camuflagem total. Você é considerado cego enquanto estiver em uma área de escuridão total, a menos que algo lhe permita perceber no escuro. (Sentidos)",
+		"anexo": null,
+		"referencia": "T20 1.2.1, p.400",
+		"tipo": "Condição",
+		"origem": null
+	},
+	{
+		"id": "C007",
+		"nome": "Confuso",
+		"cabecalho": null,
+		"descricao": "O personagem comporta-se de modo aleatório. Role 1d6 no início de seus turnos: 1) Movimenta-se em uma direção escolhida por uma rolagem de 1d8; 2-3) Não pode fazer ações, e fica balbuciando incoerentemente; 4-5) Usa a arma que estiver empunhando para atacar a criatura mais próxima, ou a si mesmo se estiver sozinho (nesse caso, apenas role o dano); 6) A condição termina e pode agir normalmente. (Mental) ",
+		"anexo": "[1d6]; 1) Movimenta-se em uma direção escolhida por uma rolagem de 1d8; 2-3) Não pode fazer ações, e fica balbuciando incoerentemente; 4-5) Usa a arma que estiver empunhando para atacar a criatura mais próxima, ou a si mesmo se estiver sozinho (nesse caso, apenas role o dano); 6) A condição termina e pode agir normalmente.",
+		"referencia": "T20 1.2.1, p.400",
+		"tipo": "Condição",
+		"origem": null
+	},
+	{
+		"id": "C008",
+		"nome": "Debilitado",
+		"cabecalho": null,
+		"descricao": "O personagem sofre –5 em testes de Força, Destreza e Constituição e de perícias baseadas nesses atributos. Se o personagem ficar debilitado novamente, em vez disso fica inconsciente.",
+		"anexo": null,
+		"referencia": "T20 1.2.1, p.400",
+		"tipo": "Condição",
+		"origem": null
+	},
+	{
+		"id": "C009",
+		"nome": "Desprevenido",
+		"cabecalho": null,
+		"descricao": "O personagem sofre –5 na Defesa e em Reflexos. Você fica desprevenido contra inimigos que não possa perceber.",
+		"anexo": null,
+		"referencia": "T20 1.2.1, p.400",
+		"tipo": "Condição",
+		"origem": null
+	},
+	{
+		"id": "C010",
+		"nome": "Doente",
+		"cabecalho": null,
+		"descricao": "Sob efeito de uma doença. (Metabolismo)",
+		"anexo": null,
+		"referencia": "T20 1.2.1, p.400",
+		"tipo": "Condição",
+		"origem": null
+	},
+	{
+		"id": "C011",
+		"nome": "Em Chamas",
+		"cabecalho": null,
+		"descricao": "O personagem está pegando fogo. No início de seus turnos, sofre 1d6 pontos de dano de fogo. O personagem pode gastar uma ação padrão para apagar o fogo com as mãos. Imersão em água também apaga as chamas.",
+		"anexo": null,
+		"referencia": "T20 1.2.1, p.400",
+		"tipo": "Condição",
+		"origem": null
+	},
+	{
+		"id": "C012",
+		"nome": "Enfeitiçado",
+		"cabecalho": null,
+		"descricao": "O personagem se torna prestativo em relação à fonte da condição. Ele não fica sob controle da fonte, mas percebe suas palavras e ações da maneira mais favorável possível. A fonte da condição recebe +10 em testes de Diplomacia com o personagem. (Mental)",
+		"anexo": null,
+		"referencia": "T20 1.2.1, p.400",
+		"tipo": "Condição",
+		"origem": null
+	},
+	{
+		"id": "C013",
+		"nome": "Enjoado",
+		"cabecalho": null,
+		"descricao": "O personagem só pode realizar uma ação padrão ou de movimento (não ambas) por rodada. Ele pode gastar uma ação padrão para fazer uma investida, mas pode avançar no máximo seu deslocamento (e não o dobro). (Metabolismo)",
+		"anexo": null,
+		"referencia": "T20 1.2.1, p.400",
+		"tipo": "Condição",
+		"origem": null
+	},
+	{
+		"id": "C014",
+		"nome": "Enredado",
+		"cabecalho": null,
+		"descricao": "O personagem fica lento, vulnerável e sofre –2 em testes de ataque. (Movimento)",
+		"anexo": null,
+		"referencia": "T20 1.2.1, p.400",
+		"tipo": "Condição",
+		"origem": null
+	},
+	{
+		"id": "C015",
+		"nome": "Envenenado",
+		"cabecalho": null,
+		"descricao": "O efeito desta condição varia de acordo com o veneno. Pode ser perda de vida recorrente ou outra condição (como fraco ou enjoado). Perda de vida recorrente por venenos é cumulativa. (Veneno)",
+		"anexo": null,
+		"referencia": "T20 1.2.1, p.400",
+		"tipo": "Condição",
+		"origem": null
+	},
+	{
+		"id": "C016",
+		"nome": "Esmorecido",
+		"cabecalho": null,
+		"descricao": "O personagem sofre –5 em testes de Inteligência, Sabedoria e Carisma e de perícias baseadas nesses atributos. (Mental)",
+		"anexo": null,
+		"referencia": "T20 1.2.1, p.400",
+		"tipo": "Condição",
+		"origem": null
+	},
+	{
+		"id": "C017",
+		"nome": "Exausto",
+		"cabecalho": null,
+		"descricao": "O personagem fica debilitado, lento e vulnerável. Se ficar exausto novamente, em vez disso fica inconsciente. (Cansaço)",
+		"anexo": null,
+		"referencia": "T20 1.2.1, p.400",
+		"tipo": "Condição",
+		"origem": null
+	},
+	{
+		"id": "C018",
+		"nome": "Fascinado",
+		"cabecalho": null,
+		"descricao": "Com a atenção presa em alguma coisa. O personagem sofre –5 em Percepção e não pode fazer ações, exceto observar aquilo que o fascinou. Esta condição é anulada por ações hostis contra o personagem ou se o que o fascinou não estiver mais visível. Balançar uma criatura fascinada para tirá-la desse estado gasta uma ação padrão. (Mental)",
+		"anexo": null,
+		"referencia": "T20 1.2.1, p.400",
+		"tipo": "Condição",
+		"origem": null
+	},
+	{
+		"id": "C019",
+		"nome": "Fatigado",
+		"cabecalho": null,
+		"descricao": "O personagem fica fraco e vulnerável. Se ficar fatigado novamente, em vez disso fica exausto. (Cansaço)",
+		"anexo": null,
+		"referencia": "T20 1.2.1, p.400",
+		"tipo": "Condição",
+		"origem": null
+	},
+	{
+		"id": "C020",
+		"nome": "Fraco",
+		"cabecalho": null,
+		"descricao": "O personagem sofre –2 em testes de Força, Destreza e Constituição e de perícias baseadas nesses atributos. Se ficar fraco novamente, em vez disso fica debilitado.",
+		"anexo": null,
+		"referencia": "T20 1.2.1, p.400",
+		"tipo": "Condição",
+		"origem": null
+	},
+	{
+		"id": "C021",
+		"nome": "Frustrado",
+		"cabecalho": null,
+		"descricao": "O personagem sofre –2 em testes de Inteligência, Sabedoria e Carisma e de perícias baseadas nesses atributos. Se ficar frustrado novamente, em vez disso fica esmorecido. (Mental)",
+		"anexo": null,
+		"referencia": "T20 1.2.1, p.400",
+		"tipo": "Condição",
+		"origem": null
+	},
+	{
+		"id": "C022",
+		"nome": "Imóvel",
+		"cabecalho": null,
+		"descricao": "Todas as formas de deslocamento do personagem são reduzidas a 0m. (Movimento)",
+		"anexo": null,
+		"referencia": "T20 1.2.1, p.400",
+		"tipo": "Condição",
+		"origem": null
+	},
+	{
+		"id": "C023",
+		"nome": "Inconsciente",
+		"cabecalho": null,
+		"descricao": "O personagem fica indefeso e não pode fazer ações, incluindo reações (mas ainda pode fazer testes que sejam naturalmente feitos quando se está inconsciente, como testes de Constituição para estabilizar sangramento). Balançar uma criatura para acordá-la gasta uma ação padrão.",
+		"anexo": null,
+		"referencia": "T20 1.2.1, p.400",
+		"tipo": "Condição",
+		"origem": null
+	},
+	{
+		"id": "C024",
+		"nome": "Indefeso",
+		"cabecalho": null,
+		"descricao": "O personagem fica desprevenido, mas sofre –10 na Defesa, falha automaticamente em testes de Reflexos e pode sofrer golpes de misericórdia.",
+		"anexo": null,
+		"referencia": "T20 1.2.1, p.400",
+		"tipo": "Condição",
+		"origem": null
+	},
+	{
+		"id": "C025",
+		"nome": "Lento",
+		"cabecalho": null,
+		"descricao": "Todas as formas de deslocamento do personagem são reduzidas à metade (arredonde para baixo para o primeiro incremento de 1,5m) e ele não pode correr ou fazer investidas. (Movimento)",
+		"anexo": null,
+		"referencia": "T20 1.2.1, p.400",
+		"tipo": "Condição",
+		"origem": null
+	},
+	{
+		"id": "C026",
+		"nome": "Ofuscado",
+		"cabecalho": null,
+		"descricao": "O personagem sofre –2 em testes de ataque e de Percepção. (Sentidos)",
+		"anexo": null,
+		"referencia": "T20 1.2.1, p.400",
+		"tipo": "Condição",
+		"origem": null
+	},
+	{
+		"id": "C027",
+		"nome": "Paralisado",
+		"cabecalho": null,
+		"descricao": "Fica imóvel e indefeso e só pode realizar ações puramente mentais. (Movimento)",
+		"anexo": null,
+		"referencia": "T20 1.2.1, p.400",
+		"tipo": "Condição",
+		"origem": null
+	},
+	{
+		"id": "C028",
+		"nome": "Pasmo",
+		"cabecalho": null,
+		"descricao": "Não pode fazer ações. (Mental)",
+		"anexo": null,
+		"referencia": "T20 1.2.1, p.400",
+		"tipo": "Condição",
+		"origem": null
+	},{
+		"id": "C029",
+		"nome": "Petrificado",
+		"cabecalho": null,
+		"descricao": "O personagem fica inconsciente e recebe redução de dano 8. (Metamorfose)",
+		"anexo": null,
+		"referencia": "T20 1.2.1, p.400",
+		"tipo": "Condição",
+		"origem": null
+	},
+	{
+		"id": "C030",
+		"nome": "Sangrando",
+		"cabecalho": null,
+		"descricao": "No início de seu turno, o personagem deve fazer um teste de Constituição (CD 15). Se falhar, perde 1d6 pontos de vida e continua sangrando. Se passar, remove essa condição. (Metabolismo)",
+		"anexo": null,
+		"referencia": "T20 1.2.1, p.400",
+		"tipo": "Condição",
+		"origem": null
+	},
+	{
+		"id": "C031",
+		"nome": "Sobrecarregado",
+		"cabecalho": null,
+		"descricao": "O personagem sofre penalidade de armadura –5 e seu deslocamento é reduzido –3m. (Movimento)",
+		"anexo": null,
+		"referencia": "T20 1.2.1, p.400",
+		"tipo": "Condição",
+		"origem": null
+	},
+	{
+		"id": "C032",
+		"nome": "Surdo",
+		"cabecalho": null,
+		"descricao": "O personagem não pode fazer testes de Percepção para ouvir e sofre –5 em testes de Iniciativa. Além disso, é considerado em condição ruim para lançar magias. (Sentidos)",
+		"anexo": null,
+		"referencia": "T20 1.2.1, p.400",
+		"tipo": "Condição",
+		"origem": null
+	},
+	{
+		"id": "C033",
+		"nome": "Surpreendido",
+		"cabecalho": null,
+		"descricao": "O personagem fica desprevenido e não pode fazer ações.",
+		"anexo": null,
+		"referencia": "T20 1.2.1, p.400",
+		"tipo": "Condição",
+		"origem": null
+	},
+	{
+		"id": "C034",
+		"nome": "Vulnerável",
+		"cabecalho": null,
+		"descricao": "O personagem sofre –2 na Defesa.",
+		"anexo": null,
+		"referencia": "T20 1.2.1, p.400",
+		"tipo": "Condição",
+		"origem": null
+	}
 ]
