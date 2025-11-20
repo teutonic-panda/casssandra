@@ -288,7 +288,8 @@
 		"referencia": "T20 1.2.1, p.400",
 		"tipo": "Condição",
 		"origem": null
-	},{
+	},
+	{
 		"id": "C029",
 		"nome": "Petrificado",
 		"cabecalho": null,
