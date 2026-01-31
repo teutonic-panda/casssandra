@@ -1,0 +1,212 @@
+[
+  {
+    "id": "PCHA03000",
+    "nome": "Ardil Afiado",
+    "cabecalho": null,
+    "descricao": "Você pode usar Audácia em testes de manobra. Se fizer isso contra um oponente desprevenido, soma o dobro do Carisma no teste. Pré-requisitos: Car 1, treinado em Enganação.",
+    "anexo": null,
+    "referencia": "Heróis de Arton v1.1, pg.59",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCHA03001",
+    "nome": "Bloqueio Desconcertante",
+    "cabecalho": null,
+    "descricao": "Quando uma criatura erra um ataque corpo a corpo contra você, ou quando você bloqueia um ataque com Aparar, você pode gastar 1 PM. Se você fizer isso, a criatura fica desprevenida contra seu próximo ataque feito até o fim do seu próximo turno. Pré-requisito: Esgrimista.",
+    "anexo": null,
+    "referencia": "Heróis de Arton v1.1, pg.59",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCHA03002",
+    "nome": "Bom de Trago",
+    "cabecalho": null,
+    "descricao": "Uma vez por rodada, você pode ingerir uma bebida, preparado ou poção que esteja empunhando como uma ação livre.",
+    "anexo": null,
+    "referencia": "Heróis de Arton v1.1, pg.59",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCHA03003",
+    "nome": "Charme Cafajeste",
+    "cabecalho": null,
+    "descricao": "Você aprende e pode lançar Enfeitiçar (atributo-chave Carisma). A CD para resistir a esta habilidade aumenta em +2 para criaturas inamistosas e em +5 para criaturas hostis. Esta não é uma habilidade mágica. Pré-requisitos: treinado em Enganação, 3º nível de bucaneiro.",
+    "anexo": null,
+    "referencia": "Heróis de Arton v1.1, pg.59",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCHA03004",
+    "nome": "Cobrir de Pólvora",
+    "cabecalho": null,
+    "descricao": "Você pode gastar uma ação de movimento, 1 PM e uma bala de arma de fogo para cobrir uma criatura em alcance curto com uma pequena quantidade de pólvora. O alvo fica cego por 1 rodada (Ref CD Car evita) e, até o fim da cena, o próximo ataque contra ele causa +1d6 pontos de dano de fogo e deixa-o em chamas.",
+    "anexo": null,
+    "referencia": "Heróis de Arton v1.1, pg.59",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCHA03005",
+    "nome": "Cortejo de Espadas",
+    "cabecalho": null,
+    "descricao": "Quando você faz um teste de Acrobacia para passar por um inimigo, o espaço ocupado por esse inimigo não conta como terreno difícil e ele só pode usar Iniciativa para o teste oposto. Se você vencer esse teste, recebe +2 na Defesa e em Reflexos contra esse inimigo por 1 rodada. Pré-requisito: treinado em Acrobacia.",
+    "anexo": null,
+    "referencia": "Heróis de Arton v1.1, pg.59",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCHA03006",
+    "nome": "Dançar nas Cordas",
+    "cabecalho": null,
+    "descricao": "Se você usar Ataque Acrobático tendo vencido um teste oposto para passar pelo espaço de um inimigo, os bônus fornecidos por esse poder aumentam para +5 e se aplicam a todos os seus ataques contra esse inimigo nessa rodada. Pré-requisito: Ataque Acrobático.",
+    "anexo": null,
+    "referencia": "Heróis de Arton v1.1, pg.59",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCHA03007",
+    "nome": "Entrada Triunfal",
+    "cabecalho": null,
+    "descricao": "Se um combate começar e você for o primeiro na iniciativa, recebe uma quantidade de PV temporários igual à metade de seus PV máximos.",
+    "anexo": null,
+    "referencia": "Heróis de Arton v1.1, pg.59",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCHA03008",
+    "nome": "Esgrima Sambur",
+    "cabecalho": null,
+    "descricao": "Se estiver empunhando duas armas corpo a corpo leves ou ágeis e fizer a ação agredir, você pode gastar 1 PM para fazer dois ataques, um com cada arma. Além disso, se tiver o poder Aparar, pode usá-lo uma segunda vez na rodada. Pré-requisito: Esgrimista.",
+    "anexo": null,
+    "referencia": "Heróis de Arton v1.1, pg.59",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCHA03009",
+    "nome": "Estampido Ensurdecedor",
+    "cabecalho": null,
+    "descricao": "Quando faz um ataque à distância com uma arma de fogo, você pode pagar 1 PM para deixar todas as criaturas adjacentes a você abaladas e surdas (Fort CD Car reduz a duração das condições para 1 rodada). Pré-requisito: Grudar o Cano.",
+    "anexo": null,
+    "referencia": "Heróis de Arton v1.1, pg.59",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCHA03010",
+    "nome": "Estocada no Flanco",
+    "cabecalho": null,
+    "descricao": "Uma vez por rodada, quando vence um teste oposto para passar por um inimigo, você pode gastar 2 PM para fazer um ataque contra ele. Se você acertar o ataque e causar dano de corte ou perfuração, o inimigo fica sangrando. Pré-requisito: Cortejo de Espadas.",
+    "anexo": null,
+    "referencia": "Heróis de Arton v1.1, pg.59",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCHA03011",
+    "nome": "Gole da Coragem",
+    "cabecalho": null,
+    "descricao": "Uma vez por cena, quando ingerir uma bebida, preparado ou poção, você recebe uma ação padrão adicional nesse turno.",
+    "anexo": null,
+    "referencia": "Heróis de Arton v1.1, pg.59",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCHA03012",
+    "nome": "Golpe Humilhante",
+    "cabecalho": null,
+    "descricao": "Você pode gastar 2 PM para humilhar uma criatura em alcance curto. Até o fim da cena, sempre que você acertar um ataque nessa criatura, ela sofre uma penalidade de –1 na Defesa. A penalidade é cumulativa, limitada pelo seu Carisma.",
+    "anexo": null,
+    "referencia": "Heróis de Arton v1.1, pg.59",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCHA03013",
+    "nome": "Introdução Calorosa",
+    "cabecalho": null,
+    "descricao": "Na primeira rodada de um combate, você pode gastar uma ação para se apresentar. Você recebe todos os benefícios das ações anteriores (veja tabela) e eles duram até o fim da cena.",
+    "anexo": "TPCHA03013",
+    "referencia": "Heróis de Arton v1.1, pg.60",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCHA03014",
+    "nome": "Lobo do Mar",
+    "cabecalho": null,
+    "descricao": "Quando você chega a um lugar no qual nunca esteve, pelo resto da aventura o custo de Audácia diminui em –1 PM e você pode usá-la em testes de ataque. Pré-requisito: 17º nível de bucaneiro.",
+    "anexo": null,
+    "referencia": "Heróis de Arton v1.1, pg.60",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCHA03015",
+    "nome": "Lorotas da Terra e do Mar",
+    "cabecalho": null,
+    "descricao": "Você pode gastar 10 minutos para contar uma mentira sobre seu passado. Se passar no teste de Enganação, pode usar um poder qualquer cujos pré-requisitos cumpra por um dia. Pré-requisitos: treinado em Enganação, 11º nível de bucaneiro.",
+    "anexo": null,
+    "referencia": "Heróis de Arton v1.1, pg.60",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCHA03016",
+    "nome": "Onda de Sangue",
+    "cabecalho": null,
+    "descricao": "Sempre que você deixa alguém sangrando, a perda de vida causada por sangramento aumenta em um passo (cumulativo até um máximo de d12). Pré-requisito: Estocada no Flanco.",
+    "anexo": null,
+    "referencia": "Heróis de Arton v1.1, pg.60",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCHA03017",
+    "nome": "Passo Das Ondas",
+    "cabecalho": null,
+    "descricao": "Uma vez por rodada, quando acerta um ataque em um inimigo, você pode gastar 2 PM para se mover até a metade do seu deslocamento. Esse deslocamento ignora terreno difícil e não ativa reações. Pré-requisito: Pernas do Mar.",
+    "anexo": null,
+    "referencia": "Heróis de Arton v1.1, pg.60",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCHA03018",
+    "nome": "Pirouette",
+    "cabecalho": null,
+    "descricao": "Enquanto está sob efeito de En Garde, você pode gastar uma ação de movimento para receber +5 na Defesa por 1 rodada. Pré-requisito: En Garde.",
+    "anexo": null,
+    "referencia": "Heróis de Arton v1.1, pg.60",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCHA03019",
+    "nome": "Remise",
+    "cabecalho": null,
+    "descricao": "Enquanto está sob efeito de En Garde, uma vez por rodada, quando usa a ação agredir, você pode gastar 2 PM para realizar um ataque adicional. Pré-requisitos: En Garde, 7º nível de bucaneiro.",
+    "anexo": null,
+    "referencia": "Heróis de Arton v1.1, pg.60",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCHA03020",
+    "nome": "Sucesso Atrai Sucesso",
+    "cabecalho": null,
+    "descricao": "Você pode gastar 2 PM para invocar uma onda de boa sorte. Sempre que fizer um acerto crítico em um inimigo, você recebe um bônus cumulativo de +2 nas rolagens de dano (limitado pelo seu Carisma) até o fim da cena.",
+    "anexo": null,
+    "referencia": "Heróis de Arton v1.1, pg.61",
+    "tipo": "poder de classe",
+    "origem": null
+  }
+]
