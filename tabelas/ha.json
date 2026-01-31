@@ -1,0 +1,37 @@
+{
+  "TPCHA03013": {
+    "id": "TPCHA03013",
+    "nome": "Tabela: Introdução Calorosa",
+    "cabecalho": "Apresentação | Ação | Benefício | Exemplo",
+    "descricao": {
+      "linha_0": {
+        "apresentacao": "Saudação educada",
+        "acao": "Livre",
+        "beneficio": "1 PM temporário",
+        "exemplo": "“Olá!”"
+      },
+      "linha_1": {
+        "apresentacao": "Apresentar o próprio nome",
+        "acao": "Movimento",
+        "beneficio": "+2 em perícias baseadas em Carisma",
+        "exemplo": "“Meu nome é Lorthan.”"
+      },
+      "linha_2": {
+        "apresentacao": "Declarar uma ligação pessoal",
+        "acao": "Padrão",
+        "beneficio": "+2 em rolagens de dano",
+        "exemplo": "“Vocês roubaram a colheita dos camponeses.”"
+      },
+      "linha_3": {
+        "apresentacao": "Revelar seu objetivo na cena",
+        "acao": "Completa",
+        "beneficio": "Pode rolar novamente um único teste de perícia recém-feito",
+        "exemplo": "“Eu vim aqui para puni-los!”"
+      }
+    },
+    "anexo": null,
+    "referencia": "Heróis de Arton v1.1, pg.60",
+    "tipo": "tabela de classe",
+    "origem": null
+  }
+}
