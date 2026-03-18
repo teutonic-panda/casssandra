@@ -1,0 +1,222 @@
+[
+  {
+    "id": "PCHA13000",
+    "nome": "Arma Juramentada",
+    "cabecalho": "Equipamento Sagrado",
+    "descricao": "Empunhando a arma da divindade, ela conta como mágica e recebe uma melhoria gratuita (exceto material). Para de funcionar se quebrar Obrigações & Restrições. Pré-requisito: devoto.",
+    "anexo": null,
+    "referencia": "Heróis de Arton v1.1, pg. 76",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCHA13001",
+    "nome": "Arma Sacramentada",
+    "cabecalho": "Equipamento Sagrado",
+    "descricao": "A arma juramentada recebe também um encanto gratuito. Para de funcionar se quebrar Obrigações & Restrições. Pré-requisitos: Arma Juramentada, 11º nível de paladino.",
+    "anexo": null,
+    "referencia": "Heróis de Arton v1.1, pg. 76",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCHA13002",
+    "nome": "Aura Vingadora",
+    "cabecalho": "Aura",
+    "descricao": "Enquanto a aura estiver ativa, você e aliados dentro dela recebem +1d6 de luz em uma rolagem de dano corpo a corpo (1/rodada). Pré-requisito: 8º nível de paladino.",
+    "anexo": null,
+    "referencia": "Heróis de Arton v1.1, pg. 76",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCHA13003",
+    "nome": "Bloqueio Divino",
+    "cabecalho": "Equipamento Sagrado",
+    "descricao": "Ao sofrer um ataque empunhando escudo, gasta 2 PM para receber +5 na Defesa contra esse ataque. Pré-requisito: proficiência com escudos.",
+    "anexo": null,
+    "referencia": "Heróis de Arton v1.1, pg. 76",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCHA13004",
+    "nome": "Convicção Heroica",
+    "cabecalho": null,
+    "descricao": "Uma vez por cena, se reduzido a 0 PV ou menos, gasta 5 PM para curar 50 PV. Pré-requisito: 11º nível de paladino.",
+    "anexo": null,
+    "referencia": "Heróis de Arton v1.1, pg. 76",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCHA13005",
+    "nome": "Expurgo Sagrado",
+    "cabecalho": null,
+    "descricao": "Contra abissais ou mortos-vivos, Golpe Divino custa –1 PM e o bônus de dano aumenta em mais um dado.",
+    "anexo": null,
+    "referencia": "Heróis de Arton v1.1, pg. 76",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCHA13006",
+    "nome": "Escudo Fraterno",
+    "cabecalho": "Equipamento Sagrado",
+    "descricao": "Empunhando escudo, sua Égide Sagrada afeta aliados até 9m. Pré-requisito: Égide Sagrada.",
+    "anexo": null,
+    "referencia": "Heróis de Arton v1.1, pg. 76",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCHA13007",
+    "nome": "Escudo Sagrado",
+    "cabecalho": "Equipamento Sagrado",
+    "descricao": "Ação de movimento e 1 PM para criar barreira sustentada: recebe RD igual ao Carisma. Pré-requisitos: Bloqueio Divino, 7º nível de paladino.",
+    "anexo": null,
+    "referencia": "Heróis de Arton v1.1, pg. 77",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCHA13008",
+    "nome": "Fulgor Ardente",
+    "cabecalho": null,
+    "descricao": "Ao usar Golpe Divino, gasta +1 PM para causar o dano extra de luz em todos os inimigos a até 6m do alvo. Pré-requisito: Fulgor Divino.",
+    "anexo": null,
+    "referencia": "Heróis de Arton v1.1, pg. 77",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCHA13009",
+    "nome": "Guardião Celestial",
+    "cabecalho": null,
+    "descricao": "Ação padrão e 10 PM para convocar espírito incorpóreo (100 PV de luz). Ele pode absorver seu dano ou atacar (4d8 + Car de luz) em alcance curto. Pré-requisito: 17º nível de paladino.",
+    "anexo": null,
+    "referencia": "Heróis de Arton v1.1, pg. 77",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCHA13010",
+    "nome": "Investida Sagrada",
+    "cabecalho": null,
+    "descricao": "Em investida montada, paga 1 PM para ganhar voo e +1d8 de dano até o fim do turno. Pré-requisitos: Montaria Sagrada, 10º nível de paladino.",
+    "anexo": null,
+    "referencia": "Heróis de Arton v1.1, pg. 77",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCHA13011",
+    "nome": "Julgamento Divino: Desafio",
+    "cabecalho": "Julgamento Divino",
+    "descricao": "Gasta 2 PM para marcar inimigo: ele sofre penalidade cumulativa de –1 no ataque (limite Car) contra seus aliados até atacar você. ",
+    "anexo": null,
+    "referencia": "Heróis de Arton v1.1, pg. 77",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCHA13012",
+    "nome": "Julgamento Divino: Proteção",
+    "cabecalho": "Julgamento Divino",
+    "descricao": "Gasta 2 PM para conceder 10 PV temporários e +2 na Defesa para uma criatura em alcance curto.",
+    "anexo": null,
+    "referencia": "Heróis de Arton v1.1, pg. 77",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCHA13013",
+    "nome": "Julgamento Divino: Redenção",
+    "cabecalho": "Julgamento Divino",
+    "descricao": "Permite lançar Escudo da Fé com o aprimoramento de dividir dano (ignora requisito de círculo).",
+    "anexo": null,
+    "referencia": "Heróis de Arton v1.1, pg. 77",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCHA13014",
+    "nome": "Julgamento Divino: Retribuição",
+    "cabecalho": "Julgamento Divino",
+    "descricao": "Marca inimigo: se ele causar dano em você, pode gastar 2 PM para fazer um contra-ataque corpo a corpo imediato.",
+    "anexo": null,
+    "referencia": "Heróis de Arton v1.1, pg. 77",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCHA13015",
+    "nome": "Luz Purificadora",
+    "cabecalho": null,
+    "descricao": "Ao usar Golpe Divino, gasta +1 PM para converter todo o dano em luz e ignorar 10 pontos de RD.",
+    "anexo": null,
+    "referencia": "Heróis de Arton v1.1, pg. 77",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCHA13016",
+    "nome": "Manto de Batalha",
+    "cabecalho": null,
+    "descricao": "Aprende e lança Vestimenta da Fé (círculos como clérigo). Pré-requisito: 5º nível de paladino.",
+    "anexo": null,
+    "referencia": "Heróis de Arton v1.1, pg. 77",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCHA13017",
+    "nome": "Paladino do Reino",
+    "cabecalho": null,
+    "descricao": "Recebe um poder de cavaleiro (nível como nível de cavaleiro). Pré-requisito: treinado em Nobreza.",
+    "anexo": null,
+    "referencia": "Heróis de Arton v1.1, pg. 77",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCHA13018",
+    "nome": "Rajada Divina",
+    "cabecalho": null,
+    "descricao": "Com Luz Purificadora, gasta +1 PM para aumentar o alcance do Golpe Divino para curto (ainda conta como corpo a corpo). Pré-requisito: Luz Purificadora.",
+    "anexo": null,
+    "referencia": "Heróis de Arton v1.1, pg. 77",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCHA13019",
+    "nome": "Sacrifício",
+    "cabecalho": null,
+    "descricao": "Uma vez/rodada, sacrifica 5 PV por patamar para causar +1d10 de dano por patamar em ataque corpo a corpo.",
+    "anexo": null,
+    "referencia": "Heróis de Arton v1.1, pg. 77",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCHA13020",
+    "nome": "Sentença Dobrada",
+    "cabecalho": "Julgamento Divino",
+    "descricao": "Ao proferir um julgamento, gasta +1 PM para proferir um segundo simultaneamente (pagando ambos).",
+    "anexo": null,
+    "referencia": "Heróis de Arton v1.1, pg. 77",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCHA13021",
+    "nome": "Virtude Paladinesca: Paciência",
+    "cabecalho": "Virtude Paladinesca",
+    "descricao": "Fica uma rodada em meditação (sem ações) para receber +2 em perícias e Defesa até o fim da cena.",
+    "anexo": null,
+    "referencia": "Heróis de Arton v1.1, pg. 77",
+    "tipo": "poder de classe",
+    "origem": null
+  }
+]

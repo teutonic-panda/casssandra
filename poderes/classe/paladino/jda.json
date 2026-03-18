@@ -1,0 +1,222 @@
+[
+  {
+    "id": "PCLB13000",
+    "nome": "Arma Sagrada",
+    "cabecalho": null,
+    "descricao": "Ao usar Golpe Divino com a arma preferida de sua divindade, o dado de dano da habilidade aumenta para d12. Pré-requisito: devoto (exceto Lena e Marah).",
+    "anexo": null,
+    "referencia": "Tormenta 20 - jogo do ano v1.3, pg. 82",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCLB13001",
+    "nome": "Aura Antimagia",
+    "cabecalho": "Aura",
+    "descricao": "Enquanto a aura estiver ativa, você e aliados dentro dela podem rolar novamente qualquer teste de resistência contra magia recém-realizado. Pré-requisito: 14° nível de paladino.",
+    "anexo": null,
+    "referencia": "Tormenta 20 - jogo do ano v1.3, pg. 82",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCLB13002",
+    "nome": "Aura Ardente",
+    "cabecalho": "Aura",
+    "descricao": "Enquanto a aura estiver ativa, no início de seus turnos, espíritos e mortos-vivos à escolha dentro dela sofrem dano de luz igual a 5 + Carisma. Pré-requisito: 10° nível de paladino.",
+    "anexo": null,
+    "referencia": "Tormenta 20 - jogo do ano v1.3, pg. 83",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCLB13003",
+    "nome": "Aura de Cura",
+    "cabecalho": "Aura",
+    "descricao": "Enquanto a aura estiver ativa, no início de seus turnos, você e aliados à escolha dentro dela curam PV igual a 5 + Carisma. Pré-requisito: 6° nível de paladino.",
+    "anexo": null,
+    "referencia": "Tormenta 20 - jogo do ano v1.3, pg. 83",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCLB13004",
+    "nome": "Aura de Invencibilidade",
+    "cabecalho": "Aura",
+    "descricao": "Enquanto a aura estiver ativa, você e aliados dentro dela ignoram o primeiro dano que sofrerem na cena. Pré-requisito: 18° nível de paladino.",
+    "anexo": null,
+    "referencia": "Tormenta 20 - jogo do ano v1.3, pg. 83",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCLB13005",
+    "nome": "Aura Poderosa",
+    "cabecalho": "Aura",
+    "descricao": "O raio da sua aura aumenta para 30m. Pré-requisito: 6° nível de paladino.",
+    "anexo": null,
+    "referencia": "Tormenta 20 - jogo do ano v1.3, pg. 83",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCLB13006",
+    "nome": "Fulgor Divino",
+    "cabecalho": null,
+    "descricao": "Quando usa Golpe Divino, todos os inimigos em alcance curto ficam ofuscados até o início do seu próximo turno.",
+    "anexo": null,
+    "referencia": "Tormenta 20 - jogo do ano v1.3, pg. 83",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCLB13007",
+    "nome": "Julgamento Divino: Arrependimento",
+    "cabecalho": "Julgamento Divino",
+    "descricao": "Gasta 2 PM para marcar inimigo. Se ele acertar ataque em você ou aliado, deve passar em Vontade (CD Car) ou fica atordoado no próximo turno (1/cena).",
+    "anexo": null,
+    "referencia": "Tormenta 20 - jogo do ano v1.3, pg. 83",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCLB13008",
+    "nome": "Julgamento Divino: Autoridade",
+    "cabecalho": "Julgamento Divino",
+    "descricao": "Gasta 1 PM para comandar criatura. Diplomacia oposta por Vontade do alvo. Se vencer, ele obedece comando simples como 'pare' (1/cena). Mental.",
+    "anexo": null,
+    "referencia": "Tormenta 20 - jogo do ano v1.3, pg. 83",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCLB13009",
+    "nome": "Julgamento Divino: Coragem",
+    "cabecalho": "Julgamento Divino",
+    "descricao": "Gasta 2 PM para inspirar criatura: fica imune a medo e recebe +2 no ataque contra o inimigo de maior ND na cena.",
+    "anexo": null,
+    "referencia": "Tormenta 20 - jogo do ano v1.3, pg. 83",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCLB13010",
+    "nome": "Julgamento Divino: Iluminação",
+    "cabecalho": "Julgamento Divino",
+    "descricao": "Marca inimigo. Ao acertar ataque corpo a corpo nele, recebe 2 PM temporários (1/cena).",
+    "anexo": null,
+    "referencia": "Tormenta 20 - jogo do ano v1.3, pg. 83",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCLB13011",
+    "nome": "Julgamento Divino: Justiça",
+    "cabecalho": "Julgamento Divino",
+    "descricao": "Gasta 2 PM para marcar inimigo. Se ele causar dano em você ou aliado, deve passar em Vontade (CD Car) ou sofre dano de luz igual a metade do dano que causou.",
+    "anexo": null,
+    "referencia": "Tormenta 20 - jogo do ano v1.3, pg. 83",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCLB13012",
+    "nome": "Julgamento Divino: Libertação",
+    "cabecalho": "Julgamento Divino",
+    "descricao": "Gasta 5 PM para cancelar uma condição negativa qualquer afetando uma criatura em alcance curto.",
+    "anexo": null,
+    "referencia": "Tormenta 20 - jogo do ano v1.3, pg. 83",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCLB13013",
+    "nome": "Julgamento Divino: Salvação",
+    "cabecalho": "Julgamento Divino",
+    "descricao": "Gasta 2 PM para marcar inimigo. Até o fim da cena, ao acertar ataque corpo a corpo nele, você recupera 5 PV.",
+    "anexo": null,
+    "referencia": "Tormenta 20 - jogo do ano v1.3, pg. 83",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCLB13014",
+    "nome": "Julgamento Divino: Vindicação",
+    "cabecalho": "Julgamento Divino",
+    "descricao": "Gasta 2 PM para marcar quem causou dano: recebe +1 no ataque e +1d8 no dano contra o alvo, mas –5 no ataque contra outros. Bônus escala com nível e PM.",
+    "anexo": null,
+    "referencia": "Tormenta 20 - jogo do ano v1.3, pg. 83",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCLB13015",
+    "nome": "Julgamento Divino: Zelo",
+    "cabecalho": "Julgamento Divino",
+    "descricao": "Gasta 1 PM para marcar alvo em alcance longo. Pelo resto da cena, move-se com o dobro do deslocamento na direção dele.",
+    "anexo": null,
+    "referencia": "Tormenta 20 - jogo do ano v1.3, pg. 83",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCLB13016",
+    "nome": "Orar",
+    "cabecalho": null,
+    "descricao": "Aprende e pode lançar uma magia divina de 1º círculo (Sab). Pode ser escolhido várias vezes.",
+    "anexo": null,
+    "referencia": "Tormenta 20 - jogo do ano v1.3, pg. 83",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCLB13017",
+    "nome": "Virtude Paladinesca: Caridade",
+    "cabecalho": "Virtude Paladinesca",
+    "descricao": "O custo de suas habilidades de paladino que tenham um aliado como alvo é reduzido em –1 PM.",
+    "anexo": null,
+    "referencia": "Tormenta 20 - jogo do ano v1.3, pg. 83",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCLB13018",
+    "nome": "Virtude Paladinesca: Castidade",
+    "cabecalho": "Virtude Paladinesca",
+    "descricao": "Torna-se imune a efeitos de encantamento e recebe +5 em Intuição para perceber blefes.",
+    "anexo": null,
+    "referencia": "Tormenta 20 - jogo do ano v1.3, pg. 83",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCLB13019",
+    "nome": "Virtude Paladinesca: Compaixão",
+    "cabecalho": "Virtude Paladinesca",
+    "descricao": "Cura pelas Mãos passa a ter alcance curto e cura 2d6+1 por PM gasto (em vez de 1d8+1).",
+    "anexo": null,
+    "referencia": "Tormenta 20 - jogo do ano v1.3, pg. 83",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCLB13020",
+    "nome": "Virtude Paladinesca: Humildade",
+    "cabecalho": "Virtude Paladinesca",
+    "descricao": "No 1º turno, ação completa para rezar: recebe PM temporários iguais ao Carisma até o fim da cena.",
+    "anexo": null,
+    "referencia": "Tormenta 20 - jogo do ano v1.3, pg. 83",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCLB13021",
+    "nome": "Virtude Paladinesca: Temperança",
+    "cabecalho": "Virtude Paladinesca",
+    "descricao": "Cada item ingerido (alimento, alquímico ou poção) rende duas doses em vez de uma.",
+    "anexo": null,
+    "referencia": "Tormenta 20 - jogo do ano v1.3, pg. 84",
+    "tipo": "poder de classe",
+    "origem": null
+  }
+]
