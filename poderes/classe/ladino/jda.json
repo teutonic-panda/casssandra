@@ -1,0 +1,192 @@
+[
+  {
+    "id": "PCLB10000",
+    "nome": "Assassinar",
+    "cabecalho": null,
+    "descricao": "Ação de movimento e 3 PM para analisar criatura em alcance curto. Até o fim do próximo turno, seu primeiro Ataque Furtivo que causar dano a ela dobra os dados extras de dano da habilidade. Pré-requisito: 5º nível de ladino.",
+    "anexo": null,
+    "referencia": "Tormenta 20 - jogo do ano v1.3, pg. 73",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCLB10001",
+    "nome": "Contatos no Submundo",
+    "cabecalho": null,
+    "descricao": "Em vilas ou maiores, gasta 2 PM e teste de Carisma (CD 10). Se passar, recebe +5 em Investigação para interrogar, 20% de desconto em itens mundanos/poções/pergaminhos e acesso a itens proibidos. ",
+    "anexo": null,
+    "referencia": "Tormenta 20 - jogo do ano v1.3, pg. 73",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCLB10002",
+    "nome": "Emboscar",
+    "cabecalho": null,
+    "descricao": "Na primeira rodada de combate, pode gastar 2 PM para executar uma ação padrão adicional. Pré-requisito: treinado em Furtividade.",
+    "anexo": null,
+    "referencia": "Tormenta 20 - jogo do ano v1.3, pg. 73",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCLB10003",
+    "nome": "Escapista",
+    "cabecalho": null,
+    "descricao": "Recebe +5 em Acrobacia para escapar, passar por espaço apertado ou inimigo, e em testes contra efeitos de movimento.",
+    "anexo": null,
+    "referencia": "Tormenta 20 - jogo do ano v1.3, pg. 73",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCLB10004",
+    "nome": "Fuga Formidável",
+    "cabecalho": null,
+    "descricao": "Ação completa e 1 PM para analisar o local. Até o fim da cena, recebe +3m de deslocamento, +5 em Acrobacia/Atletismo e ignora terreno difícil. Benefício perdido se fizer ação não relacionada a fugir. Pré-requisito: Int 1.",
+    "anexo": null,
+    "referencia": "Tormenta 20 - jogo do ano v1.3, pg. 73",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCLB10005",
+    "nome": "Gatuno",
+    "cabecalho": null,
+    "descricao": "Recebe +2 em Atletismo. Ao escalar, não fica desprevenido e usa deslocamento normal.",
+    "anexo": null,
+    "referencia": "Tormenta 20 - jogo do ano v1.3, pg. 74",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCLB10006",
+    "nome": "Ladrão Arcano",
+    "cabecalho": null,
+    "descricao": "Ao causar dano furtivo em conjurador, pode 'roubar' magia vista pagando 1 PM por círculo (até 4º). Pode lançar a magia (Int) até o fim da cena. Pré-requisitos: Roubo de Mana, 13º nível de ladino.",
+    "anexo": null,
+    "referencia": "Tormenta 20 - jogo do ano v1.3, pg. 74",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCLB10007",
+    "nome": "Mão na Boca",
+    "cabecalho": null,
+    "descricao": "Recebe +2 em agarrar. Ao acertar ataque furtivo em alvo desprevenido, faz teste de agarrar (ação livre). Alvo agarrado não pode falar. Pré-requisito: treinado em Luta.",
+    "anexo": null,
+    "referencia": "Tormenta 20 - jogo do ano v1.3, pg. 74",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCLB10008",
+    "nome": "Mãos Rápidas",
+    "cabecalho": null,
+    "descricao": "Uma vez por rodada, usa Ladinagem (fechaduras, ocultar, punga ou sabotar) como ação livre por 1 PM. Pré-requisitos: Des 2, treinado em Ladinagem.",
+    "anexo": null,
+    "referencia": "Tormenta 20 - jogo do ano v1.3, pg. 74",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCLB10009",
+    "nome": "Mente Criminosa",
+    "cabecalho": null,
+    "descricao": "Soma Inteligência em Ladinagem e Furtividade. Pré-requisito: Int 1.",
+    "anexo": null,
+    "referencia": "Tormenta 20 - jogo do ano v1.3, pg. 74",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCLB10010",
+    "nome": "Oportunismo",
+    "cabecalho": null,
+    "descricao": "Uma vez por rodada, se inimigo adjacente sofrer dano de aliado, gasta 2 PM para fazer um ataque corpo a corpo contra ele. Pré-requisito: 6º nível de ladino.",
+    "anexo": null,
+    "referencia": "Tormenta 20 - jogo do ano v1.3, pg. 74",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCLB10011",
+    "nome": "Rolamento Defensivo",
+    "cabecalho": null,
+    "descricao": "Ao sofrer dano, gasta 2 PM para reduzi-lo à metade e ficar caído. Pré-requisito: treinado em Reflexos.",
+    "anexo": null,
+    "referencia": "Tormenta 20 - jogo do ano v1.3, pg. 74",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCLB10012",
+    "nome": "Roubo de Mana",
+    "cabecalho": null,
+    "descricao": "Ao causar ataque furtivo, recebe 1 PM temporário e o alvo perde 1 PM para cada 1d6 de dano furtivo. Uma vez por cena por criatura. Pré-requisitos: Truque Mágico, 7º nível de ladino.",
+    "anexo": null,
+    "referencia": "Tormenta 20 - jogo do ano v1.3, pg. 74",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCLB10013",
+    "nome": "Saqueador de Tumbas",
+    "cabecalho": null,
+    "descricao": "Recebe +5 em Investigação (armadilhas) e resistências contra elas. Desabilita mecanismos com ação padrão em vez de 1d4 rodadas.",
+    "anexo": null,
+    "referencia": "Tormenta 20 - jogo do ano v1.3, pg. 74",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCLB10014",
+    "nome": "Sombra",
+    "cabecalho": null,
+    "descricao": "Recebe +2 em Furtividade, sem penalidade por deslocamento normal e reduz penalidade por ações chamativas para –10. Pré-requisito: treinado em Furtividade.",
+    "anexo": null,
+    "referencia": "Tormenta 20 - jogo do ano v1.3, pg. 74",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCLB10015",
+    "nome": "Truque Mágico",
+    "cabecalho": null,
+    "descricao": "Aprende uma magia arcana de 1º círculo (Int). Pode ser escolhido várias vezes. Pré-requisito: Int 1.",
+    "anexo": null,
+    "referencia": "Tormenta 20 - jogo do ano v1.3, pg. 74",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCLB10016",
+    "nome": "Velocidade Ladina",
+    "cabecalho": null,
+    "descricao": "Uma vez por rodada, gasta 2 PM para realizar uma ação de movimento adicional. Pré-requisitos: Des 2, treinado em Iniciativa.",
+    "anexo": null,
+    "referencia": "Tormenta 20 - jogo do ano v1.3, pg. 74",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCLB10017",
+    "nome": "Veneno Persistente",
+    "cabecalho": "Veneno",
+    "descricao": "Veneno aplicado em arma dura três ataques em vez de um. Pré-requisitos: Veneno Potente, 8º nível de ladino.",
+    "anexo": null,
+    "referencia": "Tormenta 20 - jogo do ano v1.3, pg. 74",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCLB10018",
+    "nome": "Veneno Potente",
+    "cabecalho": "Veneno",
+    "descricao": "A CD para resistir aos seus venenos aumenta em +5. Pré-requisito: treinado em Ofício (alquimista).",
+    "anexo": null,
+    "referencia": "Tormenta 20 - jogo do ano v1.3, pg. 74",
+    "tipo": "poder de classe",
+    "origem": null
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "id": "PCHA10000",
+    "nome": "Ameaça Brutal",
+    "cabecalho": null,
+    "descricao": "Ao tentar assustar criatura que sofreu seu dano desde a última rodada: recebe +5 no teste e ela fica apavorada se você vencer por 5 ou mais (em vez de 10).",
+    "anexo": null,
+    "referencia": "Heróis de Arton v1.1, pg. 71",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCHA10001",
+    "nome": "Assassino em Série",
+    "cabecalho": "Ataque Furtivo",
+    "descricao": "Você pode gastar 2 PM para usar Ataque Furtivo uma segunda vez na mesma rodada. Pré-requisito: 11º nível de ladino.",
+    "anexo": null,
+    "referencia": "Heróis de Arton v1.1, pg. 71",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCHA10002",
+    "nome": "Ataque Furtivo Letal",
+    "cabecalho": "Ataque Furtivo",
+    "descricao": "Ao rolar ataque furtivo, sempre que obtiver o valor máximo ou um ponto abaixo no dado (ex: 5 ou 6 em 1d6), rola um dado extra. Pré-requisito: 5º nível de ladino.",
+    "anexo": null,
+    "referencia": "Heróis de Arton v1.1, pg. 71",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCHA10003",
+    "nome": "Bombardeiro Furtivo",
+    "cabecalho": "Ataque Furtivo",
+    "descricao": "Permite aplicar o dano do Ataque Furtivo ao utilizar preparados alquímicos de dano. Pré-requisito: treinado em Ofício (alquimista).",
+    "anexo": null,
+    "referencia": "Heróis de Arton v1.1, pg. 71",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCHA10004",
+    "nome": "Chefe de Gangue",
+    "cabecalho": "Capangas",
+    "descricao": "Seus capangas recebem Ataque Furtivo +1d6, Evasão e podem usar seu valor de Reflexos nos testes. Pré-requisito: 5º nível de ladino.",
+    "anexo": null,
+    "referencia": "Heróis de Arton v1.1, pg. 71",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCHA10005",
+    "nome": "Conhecimento Anatômico",
+    "cabecalho": "Ataque Furtivo",
+    "descricao": "Contra humanoides, os dados do seu Ataque Furtivo aumentam em um passo (ex: d6 para d8). Pré-requisito: treinado em Cura.",
+    "anexo": null,
+    "referencia": "Heróis de Arton v1.1, pg. 71",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCHA10006",
+    "nome": "Enganar os Olhos",
+    "cabecalho": null,
+    "descricao": "Ao usar Acrobacia para passar por inimigo, a criatura o considera invisível por 1 rodada (Reflexos CD Des evita).",
+    "anexo": null,
+    "referencia": "Heróis de Arton v1.1, pg. 71",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCHA10007",
+    "nome": "Finta Acrobática",
+    "cabecalho": null,
+    "descricao": "Soma sua Destreza em testes de Enganação para fintar. Pré-requisitos: treinado em Acrobacia e Enganação.",
+    "anexo": null,
+    "referencia": "Heróis de Arton v1.1, pg. 71",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCHA10008",
+    "nome": "Improvisação Arcana",
+    "cabecalho": null,
+    "descricao": "Ao usar Misticismo para lançar magia de pergaminho que não conhece: para cada 2 pontos acima da CD, pode gastar 1 PM em aprimoramentos. Pré-requisito: treinado em Misticismo.",
+    "anexo": null,
+    "referencia": "Heróis de Arton v1.1, pg. 71",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCHA10009",
+    "nome": "Investida Rasteira",
+    "cabecalho": null,
+    "descricao": "Se acertar ataque corpo a corpo contra alvo que sofreu investida desde a última rodada, ele fica desprevenido e caído (Reflexos CD Des evita).",
+    "anexo": null,
+    "referencia": "Heróis de Arton v1.1, pg. 72",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCHA10010",
+    "nome": "Mestre Assassino",
+    "cabecalho": "Assassinar",
+    "descricao": "Ao usar Assassinar, pode pagar +2 PM para: usar como ação livre, rolar dois dados no ataque (melhor resultado) ou ignorar imunidade a críticos. Requisitos: Assassinar, Ataque Furtivo Letal, 11º nível.",
+    "anexo": null,
+    "referencia": "Heróis de Arton v1.1, pg. 72",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCHA10011",
+    "nome": "Mestre Envenenador",
+    "cabecalho": "Veneno",
+    "descricao": "Ao afetar alvo com veneno, paga +2 PM para: +1 dado de efeito, +5 na CD ou ignorar imunidade a venenos. Requisitos: Veneno Persistente, 11º nível.",
+    "anexo": null,
+    "referencia": "Heróis de Arton v1.1, pg. 72",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCHA10012",
+    "nome": "Papo Furado",
+    "cabecalho": null,
+    "descricao": "Se passar em Diplomacia e Enganação contra o mesmo alvo até o fim do próximo turno, a atitude dele melhora em uma categoria. Pré-requisitos: treinado em Diplomacia e Enganação.",
+    "anexo": null,
+    "referencia": "Heróis de Arton v1.1, pg. 72",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCHA10013",
+    "nome": "Precisão Furtiva",
+    "cabecalho": "Ataque Furtivo",
+    "descricao": "Alcance do Ataque Furtivo aumenta em uma categoria. Contra alvos desprevenidos ou flanqueados, margem de ameaça aumenta em +2. Pré-requisitos: Pontaria, Ataque Furtivo.",
+    "anexo": null,
+    "referencia": "Heróis de Arton v1.1, pg. 72",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCHA10014",
+    "nome": "Rei do Crime",
+    "cabecalho": "Capangas",
+    "descricao": "Uma vez/cena, 6 PM para invocar 2d4+2 assassinos. Pode sacrificar capanga adjacente para ignorar um efeito contra você. Pré-requisitos: Chefe de Gangue, Contatos no Submundo, 17º nível.",
+    "anexo": null,
+    "referencia": "Heróis de Arton v1.1, pg. 72",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCHA10015",
+    "nome": "Sabotagem Corrosiva",
+    "cabecalho": null,
+    "descricao": "Gasta um ácido para receber +5 em Ladinagem. Pode gastar movimento e um ácido para teste de Ladinagem vs Reflexos: alvo fica desprevenido e com –5 no ataque por 1 rodada.",
+    "anexo": null,
+    "referencia": "Heróis de Arton v1.1, pg. 72",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCHA10016",
+    "nome": "Senhor do Submundo",
+    "cabecalho": null,
+    "descricao": "Recebe +5 em Intimidação e imunidade a medo. Ao ficar adjacente a criatura, pode deixá-la apavorada e desprevenida por 1 rodada (1/cena por alvo). Pré-requisitos: Intimidação, 17º nível.",
+    "anexo": null,
+    "referencia": "Heróis de Arton v1.1, pg. 72",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCHA10017",
+    "nome": "Truque de Palco",
+    "cabecalho": null,
+    "descricao": "Aprende três magias de 1º círculo com aprimoramento Truque. Execução via prestidigitação (não é habilidade mágica). Pré-requisito: treinado em Atuação.",
+    "anexo": null,
+    "referencia": "Heróis de Arton v1.1, pg. 72",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCHA10018",
+    "nome": "Truque do Chapéu",
+    "cabecalho": null,
+    "descricao": "Uma vez/rodada, ação de movimento para arremessar item vestido; permite fazer ataque de arremesso ou usar item alquímico como parte da ação. Pré-requisito: treinado em Enganação.",
+    "anexo": null,
+    "referencia": "Heróis de Arton v1.1, pg. 72",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCHA10019",
+    "nome": "Vestido Para a Ocasião",
+    "cabecalho": null,
+    "descricao": "Traje da corte/viajante: ação completa e 1 PM para transformar em outro vestuário mundano (fim da cena). Concede +5 em Enganação (disfarce). Pré-requisito: treinado em Enganação.",
+    "anexo": null,
+    "referencia": "Heróis de Arton v1.1, pg. 72",
+    "tipo": "poder de classe",
+    "origem": null
+  }
+]
