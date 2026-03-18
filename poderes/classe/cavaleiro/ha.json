@@ -1,0 +1,202 @@
+[
+  {
+    "id": "PCHA05000",
+    "nome": "Armas da Cavalaria",
+    "cabecalho": null,
+    "descricao": "Você recebe +2 em testes de ataque e rolagens de dano com espadas longas e bastardas, escudos leves e pesados, lanças montadas e de justa, maças e alabardas. Pré-requisito: 5º nível de cavaleiro.",
+    "anexo": null,
+    "referencia": "Heróis de Arton v1.1, pg. 62",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCHA05001",
+    "nome": "Cavaleiro das Paixões",
+    "cabecalho": null,
+    "descricao": "Você recebe +5 em testes de atributo para usar suas Paixões. Pré-requisito: um poder de Paixão.",
+    "anexo": null,
+    "referencia": "Heróis de Arton v1.1, pg. 62",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCHA05002",
+    "nome": "Cavaleiro Bandido",
+    "cabecalho": null,
+    "descricao": "Você abandonou sua honra em favor de vitórias fáceis. Você perde as habilidades Código de Honra e Duelo, mas recebe Ataque Furtivo como se fosse um ladino do seu nível de cavaleiro. Pré-requisitos: Código de Honra, Duelo.",
+    "anexo": null,
+    "referencia": "Heróis de Arton v1.1, pg. 62",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCHA05003",
+    "nome": "Cavaleiro Sagrado",
+    "cabecalho": null,
+    "descricao": "Você recebe um poder de paladino cujos pré-requisitos cumpra, usando seu nível de cavaleiro como nível de paladino. Pré-requisitos: treinado em Religião, devoto de uma divindade que aceite paladinos.",
+    "anexo": null,
+    "referencia": "Heróis de Arton v1.1, pg. 62",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCHA05004",
+    "nome": "Duelista Escudado",
+    "cabecalho": null,
+    "descricao": "Enquanto sua habilidade Duelo estiver ativa e você estiver empunhando um escudo, você recebe RD igual ao bônus concedido pela habilidade.",
+    "anexo": null,
+    "referencia": "Heróis de Arton v1.1, pg. 62",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCHA05005",
+    "nome": "Duelo Irrecusável",
+    "cabecalho": null,
+    "descricao": "Enquanto sua habilidade Duelo estiver ativa, a criatura escolhida sofre uma penalidade em testes de ataque e rolagens de dano contra seus aliados igual ao bônus concedido pela habilidade.",
+    "anexo": null,
+    "referencia": "Heróis de Arton v1.1, pg. 62",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCHA05006",
+    "nome": "Grão-Mestre",
+    "cabecalho": null,
+    "descricao": "Você é um cavaleiro lendário. Você recebe +5 em testes de Diplomacia e Nobreza e, quando ataca um inimigo contra o qual esteja recebendo os bônus de Duelo, ou quando faz uma investida, você causa dois dados de dano extras do mesmo tipo. Pré-requisito: 17º nível de cavaleiro.",
+    "anexo": null,
+    "referencia": "Heróis de Arton v1.1, pg. 62",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCHA05007",
+    "nome": "Honra Compartilhada",
+    "cabecalho": null,
+    "descricao": "Quando usa o poder Armadura da Honra, você pode fornecer seu benefício a todos os aliados em alcance curto. Pré-requisito: Armadura da Honra.",
+    "anexo": null,
+    "referencia": "Heróis de Arton v1.1, pg. 62",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCHA05008",
+    "nome": "Inércia do Aço",
+    "cabecalho": null,
+    "descricao": "Quando acerta um ataque com uma arma de duas mãos em uma criatura, você pode gastar 3 PM para causar metade do dano desse ataque a cada inimigo adjacente a essa criatura. Pré-requisito: 5º nível de cavaleiro.",
+    "anexo": null,
+    "referencia": "Heróis de Arton v1.1, pg. 63",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCHA05009",
+    "nome": "Investida Convicta",
+    "cabecalho": null,
+    "descricao": "Quando faz uma investida, você pode gastar 1 PM para somar seu Carisma nos testes de ataque e rolagens de dano dela.",
+    "anexo": null,
+    "referencia": "Heróis de Arton v1.1, pg. 63",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCHA05010",
+    "nome": "Investida Defensiva",
+    "cabecalho": null,
+    "descricao": "Quando faz uma investida, você não sofre a penalidade de –2 na Defesa e seu deslocamento não ativa reações de inimigos (como por Ataque Reflexo).",
+    "anexo": null,
+    "referencia": "Heróis de Arton v1.1, pg. 63",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCHA05011",
+    "nome": "Mestre das Posturas",
+    "cabecalho": null,
+    "descricao": "O custo para assumir uma postura de combate diminui em –1 PM e você pode assumir e manter duas posturas ao mesmo tempo. Pré-requisitos: dois poderes de postura, 11º nível de cavaleiro.",
+    "anexo": null,
+    "referencia": "Heróis de Arton v1.1, pg. 63",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCHA05012",
+    "nome": "Paixão: Amor",
+    "cabecalho": "Paixão",
+    "descricao": "Ao escolher esta Paixão, decida a quem ela vai se aplicar. Você pode evocar esta Paixão para extrair forças desse amor. Se passar, recupera 2d4 PM por ponto de bônus máximo que sua habilidade Duelo pode fornecer.",
+    "anexo": null,
+    "referencia": "Heróis de Arton v1.1, pg. 64",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCHA05013",
+    "nome": "Paixão: Honra",
+    "cabecalho": "Paixão",
+    "descricao": "A honra é o combustível de seus feitos. Você pode evocar esta Paixão para resistir aos mais severos ferimentos. Se passar, recupera 2d12 PV por ponto de bônus máximo que sua habilidade Duelo pode fornecer.",
+    "anexo": null,
+    "referencia": "Heróis de Arton v1.1, pg. 64",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCHA05014",
+    "nome": "Paixão: Hospitalidade",
+    "cabecalho": "Paixão",
+    "descricao": "Você pode evocar esta Paixão para proteger seus aliados. Se passar, você emana uma aura de 6m de raio; dentro dela, você e seus aliados recebem um bônus na Defesa e em testes de resistência igual ao bônus máximo que sua habilidade Duelo pode fornecer.",
+    "anexo": null,
+    "referencia": "Heróis de Arton v1.1, pg. 64",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCHA05015",
+    "nome": "Paixão: Lealdade",
+    "cabecalho": "Paixão",
+    "descricao": "Ao escolher esta Paixão, decida a quem sua lealdade será dedicada. Você pode evocar esta Paixão para buscar forças nesse compromisso. Se passar, você recebe um bônus em testes de ataque e rolagens de dano igual ao bônus máximo que sua habilidade Duelo pode fornecer.",
+    "anexo": null,
+    "referencia": "Heróis de Arton v1.1, pg. 64",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCHA05016",
+    "nome": "Postura de Combate: Armamento Pesado",
+    "cabecalho": "Postura de Combate",
+    "descricao": "Você precisa empunhar uma arma de duas mãos. Recebe +2 em Fortitude e em rolagens de dano. Para cada PM adicional no início, o bônus aumenta em +1 (limite +5). Ao acertar, pode empurrar o alvo 1,5m. Requer atacar todos os turnos.",
+    "anexo": null,
+    "referencia": "Heróis de Arton v1.1, pg. 64",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCHA05017",
+    "nome": "Postura de Combate: Quebra-Magia",
+    "cabecalho": "Postura de Combate",
+    "descricao": "Você recebe resistência a magia +2. Para cada PM adicional no início, aumenta em +1. Uma vez por rodada, quando uma criatura em alcance usa habilidade mágica, você pode gastar 1 PM para fazer um ataque corpo a corpo contra ela.",
+    "anexo": null,
+    "referencia": "Heróis de Arton v1.1, pg. 64",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCHA05018",
+    "nome": "Postura de Combate: Sequência Blindada",
+    "cabecalho": "Postura de Combate",
+    "descricao": "Você precisa estar vestindo armadura pesada. Quando faz a ação agredir, você pode fazer um ataque desarmado além de seus demais ataques.",
+    "anexo": null,
+    "referencia": "Heróis de Arton v1.1, pg. 64",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCHA05019",
+    "nome": "Presença de Muralha",
+    "cabecalho": null,
+    "descricao": "Você pode gastar 1 PM para gerar uma aura com 9m de raio (sustentada). Cada inimigo que começar seu turno na área deve fazer Vontade (CD Car) ou ter seu deslocamento reduzido à metade. Medo.",
+    "anexo": null,
+    "referencia": "Heróis de Arton v1.1, pg. 64",
+    "tipo": "poder de classe",
+    "origem": null
+  }
+]
