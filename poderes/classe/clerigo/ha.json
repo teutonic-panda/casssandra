@@ -1,0 +1,202 @@
+[
+  {
+    "id": "PCHA06000",
+    "nome": "Acólito Escudeiro",
+    "cabecalho": null,
+    "descricao": "Você recebe um parceiro especial (não conta no limite). Fornece +2 em Religião e –1 PM no custo de uma magia de 1º círculo escolhida. Você pode gastar 1 PM para usar esotéricos ou catalisadores do inventário sem empunhá-los. Pré-requisito: Autoridade Eclesiástica.",
+    "anexo": null,
+    "referencia": "Heróis de Arton v1.1, pg. 64",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCHA06001",
+    "nome": "Arma Divina",
+    "cabecalho": null,
+    "descricao": "Ao usar Abençoar Arma, ela adquire os efeitos do encanto Sagrado (energia positiva) ou Profano (energia negativa). Pré-requisitos: Abençoar Arma, 7º nível de clérigo.",
+    "anexo": null,
+    "referencia": "Heróis de Arton v1.1, pg. 64",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCHA06002",
+    "nome": "Bênção de Batalha",
+    "cabecalho": null,
+    "descricao": "Bênção passa a afetar você também. Na primeira rodada de combate, pode lançar a magia como ação de movimento. Pré-requisito: Bênção.",
+    "anexo": null,
+    "referencia": "Heróis de Arton v1.1, pg. 64",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCHA06003",
+    "nome": "Canalizar Abençoado",
+    "cabecalho": "Canalizar",
+    "descricao": "Ao usar Canalizar Energia Positiva, pode gastar 1 PM para fornecer 10 PV temporários às criaturas afetadas. Pré-requisitos: Canalizar Energia Positiva, 11° nível de clérigo.",
+    "anexo": null,
+    "referencia": "Heróis de Arton v1.1, pg. 64",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCHA06004",
+    "nome": "Canalizar Concentrado",
+    "cabecalho": "Canalizar",
+    "descricao": "Pode afetar apenas uma criatura no alcance. A cura ou dano aumenta em +1 por dado e a CD aumenta em +2. Pré-requisitos: Canalizar Energia, 11° nível de clérigo.",
+    "anexo": null,
+    "referencia": "Heróis de Arton v1.1, pg. 64",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCHA06005",
+    "nome": "Canalizar Profanado",
+    "cabecalho": "Canalizar",
+    "descricao": "Ao usar Canalizar Energia Negativa, pode gastar 1 PM para que alvos que falhem na resistência não possam recuperar PV por 1 rodada. Pré-requisitos: Canalizar Energia Negativa, 11° nível de clérigo.",
+    "anexo": null,
+    "referencia": "Heróis de Arton v1.1, pg. 65",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCHA06006",
+    "nome": "Canalizar Poderoso",
+    "cabecalho": "Canalizar",
+    "descricao": "Os dados de seu Canalizar Energia mudam para d10. Pré-requisitos: Canalizar Amplo, 9° nível de clérigo.",
+    "anexo": null,
+    "referencia": "Heróis de Arton v1.1, pg. 65",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCHA06007",
+    "nome": "Conversão de Fé",
+    "cabecalho": null,
+    "descricao": "Ação completa e 3 PM para pregar a um lacaio. Teste de Religião oposto à Vontade do alvo. Se vencer, ele se torna um parceiro iniciante prestativo até o fim da cena. Pré-requisito: Autoridade Eclesiástica.",
+    "anexo": null,
+    "referencia": "Heróis de Arton v1.1, pg. 65",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCHA06008",
+    "nome": "Dizimar Infiéis",
+    "cabecalho": null,
+    "descricao": "Com arma de Abençoar Arma: ação padrão e 2 PM para atacar a Defesa de todas as criaturas em alcance curto. Alvos atingidos ficam ofuscados (luz) ou vulneráveis (trevas) por 1 rodada. Pré-requisitos: Abençoar Arma, 5º nível de clérigo.",
+    "anexo": null,
+    "referencia": "Heróis de Arton v1.1, pg. 65",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCHA06009",
+    "nome": "Égide da Fé",
+    "cabecalho": null,
+    "descricao": "Ao lançar Escudo da Fé, a magia fornece 5 PV temporários (até o fim da cena) para cada +1 na Defesa concedido. Pré-requisito: Escudo da Fé.",
+    "anexo": null,
+    "referencia": "Heróis de Arton v1.1, pg. 65",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCHA06010",
+    "nome": "Força da Devoção",
+    "cabecalho": null,
+    "descricao": "A CD de suas magias de clérigo aumenta em +1 para cada dois poderes concedidos que você possui da sua divindade. Pré-requisito: 6º nível de clérigo.",
+    "anexo": null,
+    "referencia": "Heróis de Arton v1.1, pg. 65",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCHA06011",
+    "nome": "Liturgia Marcial",
+    "cabecalho": null,
+    "descricao": "Ação de movimento para receber +2 no ataque e dano do seu próximo ataque corpo a corpo no turno.",
+    "anexo": null,
+    "referencia": "Heróis de Arton v1.1, pg. 65",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCHA06012",
+    "nome": "Missa: Compartilhar Milagre",
+    "cabecalho": "Missa",
+    "descricao": "Cada participante pode usar um de seus poderes concedidos durante 1 rodada como se fosse devoto da sua divindade. Pré-requisito: 17° nível de clérigo.",
+    "anexo": null,
+    "referencia": "Heróis de Arton v1.1, pg. 65",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCHA06013",
+    "nome": "Missa: Imposição da Vontade",
+    "cabecalho": "Missa",
+    "descricao": "A CD para resistir às habilidades dos participantes aumenta em +1.",
+    "anexo": null,
+    "referencia": "Heróis de Arton v1.1, pg. 65",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCHA06014",
+    "nome": "Missa: Mente Abençoada",
+    "cabecalho": "Missa",
+    "descricao": "Os participantes recebem +2 em testes de perícias baseadas em Sabedoria.",
+    "anexo": null,
+    "referencia": "Heróis de Arton v1.1, pg. 65",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCHA06015",
+    "nome": "Presente dos Deuses",
+    "cabecalho": null,
+    "descricao": "Recebe uma arma superior e mágica (2 melhorias, 1 encanto). Ganha melhorias/encantos extras a cada 4 níveis. Funciona como mundana para não devotos. Pré-requisito: 9º nível de clérigo.",
+    "anexo": null,
+    "referencia": "Heróis de Arton v1.1, pg. 65",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCHA06016",
+    "nome": "Punição Divina",
+    "cabecalho": null,
+    "descricao": "Uma vez por rodada, ao lançar magia divina de ação de movimento em si mesmo, pode gastar +2 PM para fazer um ataque como ação livre. Pré-requisito: Prece de Combate.",
+    "anexo": null,
+    "referencia": "Heróis de Arton v1.1, pg. 65",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCHA06017",
+    "nome": "Representante Divino",
+    "cabecalho": null,
+    "descricao": "Escolha uma magia de ação padrão/completa. Pode lançá-la como ação de movimento, sem gesticular ou concentrar (apenas falar). Pré-requisito: 17º nível de clérigo.",
+    "anexo": null,
+    "referencia": "Heróis de Arton v1.1, pg. 66",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCHA06018",
+    "nome": "Solo Profanado",
+    "cabecalho": "Efeito de Área",
+    "descricao": "Em área de Profanar, ao lançar magia de trevas, alvos que falhem na resistência não podem curar PV por rodadas iguais ao círculo da magia. Pré-requisito: Profanar.",
+    "anexo": null,
+    "referencia": "Heróis de Arton v1.1, pg. 66",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCHA06019",
+    "nome": "Solo Sagrado",
+    "cabecalho": "Efeito de Área",
+    "descricao": "Em área de Consagrar, ao lançar magia de luz, aliados recebem RD igual ao dobro do círculo da magia contra o próximo dano. Pré-requisito: Consagrar.",
+    "anexo": null,
+    "referencia": "Heróis de Arton v1.1, pg. 66",
+    "tipo": "poder de classe",
+    "origem": null
+  }
+]

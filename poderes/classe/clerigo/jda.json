@@ -1,0 +1,172 @@
+[
+  {
+    "id": "PCLB06000",
+    "nome": "Abençoar Arma",
+    "cabecalho": null,
+    "descricao": "Você se torna proficiente na arma preferida de sua divindade. Pode gastar uma ação de movimento e 3 PM para infundi-la: até o fim da cena, a arma é mágica, emite luz, o dano aumenta em um passo e você usa Sabedoria em testes de ataque e dano (não cumulativo).",
+    "anexo": null,
+    "referencia": "Tormenta 20 - jogo do ano v1.3, pg. 57",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCLB06001",
+    "nome": "Autoridade Eclesiástica",
+    "cabecalho": null,
+    "descricao": "Você possui uma posição formal em sua igreja. Recebe +5 em Diplomacia ou Intimidação com devotos de sua divindade e paga metade do preço em itens alquímicos, poções e serviços em templos da sua fé. Pré-requisitos: 5º nível de clérigo, devoto de um deus maior.",
+    "anexo": null,
+    "referencia": "Tormenta 20 - jogo do ano v1.3, pg. 57",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCLB06002",
+    "nome": "Canalizar Energia Positiva/Negativa",
+    "cabecalho": null,
+    "descricao": "Ação padrão. Para cada PM gasto, luz cura 1d6 PV em criaturas vivas e causa 1d6 de dano de luz em mortos-vivos (Vontade CD Sab reduz à metade) em alcance curto. Trevas tem o efeito inverso (causa dano em vivos e cura mortos-vivos).",
+    "anexo": null,
+    "referencia": "Tormenta 20 - jogo do ano v1.3, pg. 57",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCLB06003",
+    "nome": "Canalizar Amplo",
+    "cabecalho": null,
+    "descricao": "Quando usa Canalizar Energia, pode gastar +2 PM para aumentar o alcance para médio. Pré-requisito: Canalizar Energia Positiva ou Negativa.",
+    "anexo": null,
+    "referencia": "Tormenta 20 - jogo do ano v1.3, pg. 58",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCLB06004",
+    "nome": "Comunhão Vital",
+    "cabecalho": null,
+    "descricao": "Ao lançar uma magia de cura, pode pagar +2 PM para que outra criatura em alcance curto recupere PV igual à metade da cura original.",
+    "anexo": null,
+    "referencia": "Tormenta 20 - jogo do ano v1.3, pg. 58",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCLB06005",
+    "nome": "Conhecimento Mágico",
+    "cabecalho": null,
+    "descricao": "Você aprende duas magias de qualquer círculo que possa lançar. Pode ser escolhido várias vezes.",
+    "anexo": null,
+    "referencia": "Tormenta 20 - jogo do ano v1.3, pg. 58",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCLB06006",
+    "nome": "Expulsar/Comandar Mortos-Vivos",
+    "cabecalho": null,
+    "descricao": "Ação padrão e 3 PM. Expulsar: mortos-vivos em alcance curto ficam apavorados por 1d6 rodadas. Comandar: mortos-vivos não inteligentes obedecem por um dia; inteligentes ficam fascinados por 1 rodada. Vontade CD Sab nega. Pré-requisito: Canalizar Energia.",
+    "anexo": null,
+    "referencia": "Tormenta 20 - jogo do ano v1.3, pg. 58",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCLB06007",
+    "nome": "Liturgia Mágica",
+    "cabecalho": null,
+    "descricao": "Ação de movimento. A CD para resistir à sua próxima habilidade de clérigo (até o fim do próximo turno) aumenta em +2.",
+    "anexo": null,
+    "referencia": "Tormenta 20 - jogo do ano v1.3, pg. 58",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCLB06008",
+    "nome": "Magia Sagrada/Profana",
+    "cabecalho": null,
+    "descricao": "Ao lançar magia divina de dano, pode gastar +1 PM para mudar o tipo de dano para luz (energia positiva) ou trevas (energia negativa).",
+    "anexo": null,
+    "referencia": "Tormenta 20 - jogo do ano v1.3, pg. 58",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCLB06009",
+    "nome": "Mestre Celebrante",
+    "cabecalho": null,
+    "descricao": "O número de pessoas afetadas por suas missas aumenta em dez vezes e os benefícios dobram. Pré-requisitos: qualquer poder de Missa, 12º nível de clérigo.",
+    "anexo": null,
+    "referencia": "Tormenta 20 - jogo do ano v1.3, pg. 58",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCLB06010",
+    "nome": "Missa: Bênção da Vida",
+    "cabecalho": "Missa",
+    "descricao": "Os participantes recebem pontos de vida temporários em um valor igual ao seu nível + sua Sabedoria.",
+    "anexo": null,
+    "referencia": "Tormenta 20 - jogo do ano v1.3, pg. 58",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCLB06011",
+    "nome": "Missa: Chamado às Armas",
+    "cabecalho": "Missa",
+    "descricao": "Os participantes recebem +1 em testes de ataque e rolagens de dano.",
+    "anexo": null,
+    "referencia": "Tormenta 20 - jogo do ano v1.3, pg. 58",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCLB06012",
+    "nome": "Missa: Elevação do Espírito",
+    "cabecalho": "Missa",
+    "descricao": "Os participantes recebem pontos de mana temporários em um valor igual a sua Sabedoria.",
+    "anexo": null,
+    "referencia": "Tormenta 20 - jogo do ano v1.3, pg. 58",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCLB06013",
+    "nome": "Missa: Escudo Divino",
+    "cabecalho": "Missa",
+    "descricao": "Os participantes recebem +1 na Defesa e testes de resistência.",
+    "anexo": null,
+    "referencia": "Tormenta 20 - jogo do ano v1.3, pg. 58",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCLB06014",
+    "nome": "Missa: Superar as Limitações",
+    "cabecalho": "Missa",
+    "descricao": "Cada participante recebe +1d6 num único teste a sua escolha e pode usá-lo mesmo após rolar o dado.",
+    "anexo": null,
+    "referencia": "Tormenta 20 - jogo do ano v1.3, pg. 58",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCLB06015",
+    "nome": "Prece de Combate",
+    "cabecalho": null,
+    "descricao": "Ao lançar uma magia divina de ação padrão em si mesmo, pode gastar +2 PM para lançá-la como ação de movimento.",
+    "anexo": null,
+    "referencia": "Tormenta 20 - jogo do ano v1.3, pg. 58",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCLB06016",
+    "nome": "Símbolo Sagrado Energizado",
+    "cabecalho": null,
+    "descricao": "Ação de movimento e 1 PM. Energiza o símbolo até o fim da cena: ele emite luz e, enquanto empunhado, o custo em PM de suas magias divinas diminui em 1.",
+    "anexo": null,
+    "referencia": "Tormenta 20 - jogo do ano v1.3, pg. 58",
+    "tipo": "poder de classe",
+    "origem": null
+  }
+]
