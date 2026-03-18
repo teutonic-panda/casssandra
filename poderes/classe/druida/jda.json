@@ -1,0 +1,212 @@
+[
+  {
+    "id": "PCLB07000",
+    "nome": "Aspecto do Inverno",
+    "cabecalho": "Aspecto",
+    "descricao": "Aprende uma magia de convocação ou evocação (arcana ou divina) de qualquer círculo que possa lançar. Recebe RD frio 5 e suas magias de frio causam +1 de dano por dado.",
+    "anexo": null,
+    "referencia": "Tormenta 20 - jogo do ano v1.3, pg. 61",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCLB07001",
+    "nome": "Aspecto do Outono",
+    "cabecalho": "Aspecto",
+    "descricao": "Aprende uma magia de necromancia (arcana ou divina) de qualquer círculo que possa lançar. Pode gastar 1 PM para impor –2 nos testes de resistência de inimigos em alcance curto por 1 rodada.",
+    "anexo": null,
+    "referencia": "Tormenta 20 - jogo do ano v1.3, pg. 61",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCLB07002",
+    "nome": "Aspecto da Primavera",
+    "cabecalho": "Aspecto",
+    "descricao": "Aprende uma magia de encantamento ou ilusão (arcana ou divina) de qualquer círculo que possa lançar. Escolha magias (mínimo 1) igual ao seu Carisma: o custo delas reduz em –1 PM.",
+    "anexo": null,
+    "referencia": "Tormenta 20 - jogo do ano v1.3, pg. 61",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCLB07003",
+    "nome": "Aspecto do Verão",
+    "cabecalho": "Aspecto",
+    "descricao": "Aprende uma magia de transmutação (arcana ou divina) de qualquer círculo que possa lançar. Pode gastar 1 PM para encantar arma com chamas (+1d6 fogo) até o fim da cena. Acertos com ela geram 1 PM temporário (máximo nível/cena).",
+    "anexo": null,
+    "referencia": "Tormenta 20 - jogo do ano v1.3, pg. 61",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCLB07004",
+    "nome": "Companheiro Animal",
+    "cabecalho": "Companheiro Animal",
+    "descricao": "Você recebe um companheiro animal. Pode ser escolhido várias vezes para companheiros diferentes, respeitando o limite de parceiros. Pré-requisitos: Car 1, treinado em Adestramento.",
+    "anexo": null,
+    "referencia": "Tormenta 20 - jogo do ano v1.3, pg. 61",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCLB07005",
+    "nome": "Companheiro Animal Aprimorado",
+    "cabecalho": "Companheiro Animal",
+    "descricao": "Um de seus companheiros recebe um segundo tipo (ex: Guardião e Fortão), ganhando bônus de seu nível. Pré-requisitos: Companheiro Animal, 6º nível de druida.",
+    "anexo": null,
+    "referencia": "Tormenta 20 - jogo do ano v1.3, pg. 62",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCLB07006",
+    "nome": "Companheiro Animal Lendário",
+    "cabecalho": "Companheiro Animal",
+    "descricao": "Um de seus companheiros dobra os bônus concedidos de seu tipo original. Pré-requisitos: Companheiro Animal, 18º nível de druida.",
+    "anexo": null,
+    "referencia": "Tormenta 20 - jogo do ano v1.3, pg. 62",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCLB07007",
+    "nome": "Companheiro Animal Mágico",
+    "cabecalho": "Companheiro Animal",
+    "descricao": "Um de seus companheiros recebe um segundo tipo entre: adepto, destruidor, magivocador ou médico. Pré-requisitos: Companheiro Animal, 8º nível de druida.",
+    "anexo": null,
+    "referencia": "Tormenta 20 - jogo do ano v1.3, pg. 62",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCLB07008",
+    "nome": "Coração da Selva",
+    "cabecalho": null,
+    "descricao": "A CD para resistir a seus venenos aumenta em +2 e eles causam +1 de perda de vida por dado.",
+    "anexo": null,
+    "referencia": "Tormenta 20 - jogo do ano v1.3, pg. 62",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCLB07009",
+    "nome": "Espírito dos Equinócios",
+    "cabecalho": null,
+    "descricao": "Custa 4 PM. Até o fim da cena, pode rolar novamente qualquer resultado 1 em dados. Pré-requisitos: Aspecto da Primavera, Aspecto do Outono, 10º nível de druida.",
+    "anexo": null,
+    "referencia": "Tormenta 20 - jogo do ano v1.3, pg. 62",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCLB07010",
+    "nome": "Espírito dos Solstícios",
+    "cabecalho": null,
+    "descricao": "Ao lançar magia, pode pagar +4 PM para maximizar efeitos numéricos variáveis. Pré-requisitos: Aspecto do Inverno, Aspecto do Verão, 10º nível de druida.",
+    "anexo": null,
+    "referencia": "Tormenta 20 - jogo do ano v1.3, pg. 62",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCLB07011",
+    "nome": "Força dos Penhascos",
+    "cabecalho": null,
+    "descricao": "Recebe +2 em Fortitude. Em contato com solo/pedra, pode pagar PM (limite Sab) para reduzir dano sofrido em 10 por cada PM gasto. Pré-requisito: 4º nível de druida.",
+    "anexo": null,
+    "referencia": "Tormenta 20 - jogo do ano v1.3, pg. 62",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCLB07012",
+    "nome": "Forma Primal",
+    "cabecalho": "Forma Selvagem",
+    "descricao": "Ao usar Forma Selvagem, recebe benefícios de dois tipos de animais simultaneamente. Pré-requisito: 18º nível de druida.",
+    "anexo": null,
+    "referencia": "Tormenta 20 - jogo do ano v1.3, pg. 62",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCLB07013",
+    "nome": "Forma Selvagem",
+    "cabecalho": "Forma Selvagem",
+    "descricao": "Você pode se transformar em animais (veja as regras específicas na classe).",
+    "anexo": null,
+    "referencia": "Tormenta 20 - jogo do ano v1.3, pg. 62",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCLB07014",
+    "nome": "Forma Selvagem Aprimorada",
+    "cabecalho": "Forma Selvagem",
+    "descricao": "Permite gastar 6 PM ao todo para assumir uma forma aprimorada. Pré-requisitos: Forma Selvagem, 6º nível de druida.",
+    "anexo": null,
+    "referencia": "Tormenta 20 - jogo do ano v1.3, pg. 62",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCLB07015",
+    "nome": "Forma Selvagem Superior",
+    "cabecalho": "Forma Selvagem",
+    "descricao": "Permite gastar 10 PM ao todo para assumir uma forma superior. Pré-requisitos: Forma Selvagem Aprimorada, 12º nível de druida.",
+    "anexo": null,
+    "referencia": "Tormenta 20 - jogo do ano v1.3, pg. 62",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCLB07016",
+    "nome": "Liberdade da Pradaria",
+    "cabecalho": null,
+    "descricao": "Recebe +2 em Reflexos. Ao ar livre, pode pagar +1 PM para aumentar o alcance de uma magia em um passo. ",
+    "anexo": null,
+    "referencia": "Tormenta 20 - jogo do ano v1.3, pg. 62",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCLB07017",
+    "nome": "Magia Natural",
+    "cabecalho": "Forma Selvagem",
+    "descricao": "Em forma selvagem, você pode lançar magias e empunhar catalisadores e esotéricos. Pré-requisito: Forma Selvagem.",
+    "anexo": null,
+    "referencia": "Tormenta 20 - jogo do ano v1.3, pg. 62",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCLB07018",
+    "nome": "Presas Afiadas",
+    "cabecalho": null,
+    "descricao": "A margem de ameaça de suas armas naturais aumenta em +2.",
+    "anexo": null,
+    "referencia": "Tormenta 20 - jogo do ano v1.3, pg. 63",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCLB07019",
+    "nome": "Segredos da Natureza",
+    "cabecalho": null,
+    "descricao": "Aprende duas magias (arcanas ou divinas) de qualquer círculo que possa lançar, pertencentes às suas escolas conhecidas. Pode ser escolhido várias vezes.",
+    "anexo": null,
+    "referencia": "Tormenta 20 - jogo do ano v1.3, pg. 63",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCLB07020",
+    "nome": "Tranquilidade dos Lagos",
+    "cabecalho": null,
+    "descricao": "Recebe +2 em Vontade. Portando água, pode pagar 1 PM para refazer um teste de resistência (uma vez por rodada).",
+    "anexo": null,
+    "referencia": "Tormenta 20 - jogo do ano v1.3, pg. 63",
+    "tipo": "poder de classe",
+    "origem": null
+  }
+]

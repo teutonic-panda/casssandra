@@ -1,0 +1,222 @@
+[
+  {
+    "id": "PCHA07000",
+    "nome": "Arma Tradicional",
+    "cabecalho": null,
+    "descricao": "Ao atacar com uma foice, pode gastar 2 PM para lançar uma magia de ácido, eletricidade, fogo ou frio (execução padrão, movimento ou completa) como ação livre. Pré-requisitos: druida de Arton, 5º nível de druida.",
+    "anexo": null,
+    "referencia": "Heróis de Arton v1.1, pg. 66",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCHA07001",
+    "nome": "Auspício do Crepúsculo",
+    "cabecalho": "Auspício",
+    "descricao": "Gasta 1 PM para cobrir arma com sombras (+1d6 trevas) até o fim da cena. Sob escuridão, acertos concedem 5 PV temporários cumulativos. Pré-requisito: druida de Tenebra.",
+    "anexo": null,
+    "referencia": "Heróis de Arton v1.1, pg. 66",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCHA07002",
+    "nome": "Auspício da Madrugada",
+    "cabecalho": "Auspício",
+    "descricao": "Gasta 1 PM para impor –1 em perícias e CD de habilidades de inimigos em alcance curto por 1 rodada. Sob escuridão, penalidade aumenta para –2. Pré-requisito: druida de Tenebra.",
+    "anexo": null,
+    "referencia": "Heróis de Arton v1.1, pg. 66",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCHA07003",
+    "nome": "Auspício da Meia-Noite",
+    "cabecalho": "Auspício",
+    "descricao": "Ação de movimento e 2 PM para aumentar a CD das habilidades de druida em +1 até o fim da cena. Sob escuridão, bônus na CD aumenta para +2. Pré-requisito: druida de Tenebra.",
+    "anexo": null,
+    "referencia": "Heróis de Arton v1.1, pg. 66",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCHA07004",
+    "nome": "Banquete Selvagem",
+    "cabecalho": null,
+    "descricao": "Em forma selvagem, ação padrão para devorar criatura inconsciente (0 PV): recebe +2 Força, +5 Intimidação e 2 PV temporários por nível até o fim da cena. Mata lacaios. Pré-requisitos: druida de Megalokk, Forma Selvagem.",
+    "anexo": null,
+    "referencia": "Heróis de Arton v1.1, pg. 66",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCHA07005",
+    "nome": "Ciclo da Vida",
+    "cabecalho": null,
+    "descricao": "Uma vez por cena, ação padrão para decompor cadáver em alcance curto: recebe +2 PM (até o fim do dia) por ND da criatura. Pré-requisito: druida.",
+    "anexo": null,
+    "referencia": "Heróis de Arton v1.1, pg. 66",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCHA07006",
+    "nome": "Companheiro Aberrante",
+    "cabecalho": "Companheiro Animal",
+    "descricao": "Um companheiro recebe o tipo aberrante. Permite gastar PM para disparar pulso mental (dano psíquico ou perda de PM) em alcance curto. Pré-requisitos: druida de Aharadak, Companheiro Animal, 6º nível de druida.",
+    "anexo": null,
+    "referencia": "Heróis de Arton v1.1, pg. 66",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCHA07007",
+    "nome": "Companheiro Elemental",
+    "cabecalho": "Companheiro Animal",
+    "descricao": "Um companheiro recebe o tipo destruidor. Se possuir Ameaças de Arton, pode se tornar parceiro aquin’ne, t’peel, pakk ou terrier. Pré-requisitos: druida de Arton, Companheiro Animal.",
+    "anexo": null,
+    "referencia": "Heróis de Arton v1.1, pg. 66",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCHA07008",
+    "nome": "Erupção Elemental",
+    "cabecalho": "Forma Selvagem",
+    "descricao": "Em forma elemental, ação de movimento e 2 PM: o próximo ataque com arma natural afeta um cone de 6m e causa dois dados de dano extras. Pré-requisito: Forma Elemental.",
+    "anexo": null,
+    "referencia": "Heróis de Arton v1.1, pg. 66",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCHA07009",
+    "nome": "Força da Natureza",
+    "cabecalho": "Forma Selvagem",
+    "descricao": "Em forma selvagem, gasta 4 PM para se cobrir de terra: recebe +4 em um atributo à escolha até o fim da cena. Pré-requisitos: Forma Selvagem Superior, 17º nível de druida.",
+    "anexo": null,
+    "referencia": "Heróis de Arton v1.1, pg. 66",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCHA07010",
+    "nome": "Forma Aberrante",
+    "cabecalho": "Forma Selvagem",
+    "descricao": "Ao usar Forma Selvagem, gasta +2 PM para contar como se tivesse dois poderes da Tormenta adicionais. Pré-requisitos: druida de Aharadak, Forma Selvagem.",
+    "anexo": null,
+    "referencia": "Heróis de Arton v1.1, pg. 67",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCHA07011",
+    "nome": "Forma de Cardume",
+    "cabecalho": "Forma Selvagem",
+    "descricao": "Ao usar Forma Selvagem, gasta +1 PM para virar cardume (sustentada). Imune a manobras, metade do dano de armas e atrapalha conjuração de inimigos no mesmo espaço. Pré-requisitos: druida de Oceano, Forma Selvagem.",
+    "anexo": null,
+    "referencia": "Heróis de Arton v1.1, pg. 67",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCHA07012",
+    "nome": "Forma Elemental",
+    "cabecalho": "Forma Selvagem",
+    "descricao": "Ao usar Forma Selvagem, gasta +2 PM para assumir forma de ácido, eletricidade, fogo ou frio. Recebe imunidade ao tipo, alcance +1,5m e dano elemental. Pré-requisitos: druida de Arton, Forma Selvagem.",
+    "anexo": null,
+    "referencia": "Heróis de Arton v1.1, pg. 67",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCHA07013",
+    "nome": "Forma Esquelética",
+    "cabecalho": "Forma Selvagem",
+    "descricao": "Ao usar Forma Selvagem, gasta +2 PM para se tornar morto-vivo. RD 5 (corte, frio, perfuração), imunidade a cansaço/veneno/metabolismo. Cura com trevas, dano com luz. Pré-requisitos: druida de Tenebra, Forma Selvagem.",
+    "anexo": null,
+    "referencia": "Heróis de Arton v1.1, pg. 67",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCHA07014",
+    "nome": "Forma Vegetal",
+    "cabecalho": "Forma Selvagem",
+    "descricao": "Ao usar Forma Selvagem, gasta +2 PM para se tornar planta. RD 5/corte ou fogo, imune a atordoamento e metamorfose. Pré-requisitos: druida de Allihanna, Forma Selvagem.",
+    "anexo": null,
+    "referencia": "Heróis de Arton v1.1, pg. 67",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCHA07015",
+    "nome": "Instinto Venenoso",
+    "cabecalho": null,
+    "descricao": "Usa Sab como atributo-chave de venenos. Em Forma Selvagem, aplica venenos de contato em armas naturais como ação livre. Pré-requisito: Coração da Selva.",
+    "anexo": null,
+    "referencia": "Heróis de Arton v1.1, pg. 67",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCHA07016",
+    "nome": "Metamorfose Instantânea",
+    "cabecalho": "Forma Selvagem",
+    "descricao": "Uma vez por rodada, gasta +2 PM para usar Forma Selvagem como ação livre. Pré-requisitos: Forma Selvagem, 11º nível de druida.",
+    "anexo": null,
+    "referencia": "Heróis de Arton v1.1, pg. 67",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCHA07017",
+    "nome": "Oráculo da Natureza",
+    "cabecalho": null,
+    "descricao": "Ação de movimento para se conectar: CD de magias aumenta +2 e recebe 2 PM para aprimoramentos enquanto parado. Ação completa em cidades. Pré-requisitos: Xamã Místico, 11º nível de druida.",
+    "anexo": null,
+    "referencia": "Heróis de Arton v1.1, pg. 67",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCHA07018",
+    "nome": "Orador dos Elementos",
+    "cabecalho": null,
+    "descricao": "Aprende uma magia de dano elemental (arcana ou divina). Pode aprender magias arcanas de elementos como se fossem divinas.",
+    "anexo": null,
+    "referencia": "Heróis de Arton v1.1, pg. 67",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCHA07019",
+    "nome": "Proteção Fúngica",
+    "cabecalho": null,
+    "descricao": "Gasta 1 PM para aura de esporos (sustentada). Atacantes adjacentes perdem 1d8 PV por ataque sofrido. Dano escala com nível e PM extra. Veneno. Pré-requisito: Coração da Selva.",
+    "anexo": null,
+    "referencia": "Heróis de Arton v1.1, pg. 67",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCHA07020",
+    "nome": "Transformação Repugnante",
+    "cabecalho": "Forma Selvagem",
+    "descricao": "Ao usar Forma Selvagem, gasta +2 PM: inimigos em alcance curto sofrem 1d6 dano psíquico por poder da Tormenta e ficam alquebrados/frustrados. Pré-requisito: Forma Aberrante.",
+    "anexo": null,
+    "referencia": "Heróis de Arton v1.1, pg. 67",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCHA07021",
+    "nome": "Xamã Místico",
+    "cabecalho": null,
+    "descricao": "Recebe +1 PM por nível, aprende uma escola adicional e CD aumenta +1. Pré-requisito: não possuir Forma Selvagem.",
+    "anexo": null,
+    "referencia": "Heróis de Arton v1.1, pg. 67",
+    "tipo": "poder de classe",
+    "origem": null
+  }
+]
