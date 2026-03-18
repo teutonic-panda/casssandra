@@ -1,0 +1,222 @@
+[
+  {
+    "id": "PCLB11000",
+    "nome": "Arma Improvisada",
+    "cabecalho": null,
+    "descricao": "Atacar com armas improvisadas conta como ataque desarmado, mas o dano aumenta em um passo. Ação de movimento e Percepção (CD 20) para encontrar uma. Quebra se errar o ataque com d20 ímpar.",
+    "anexo": null,
+    "referencia": "Tormenta 20 - jogo do ano v1.3, pg. 76",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCLB11001",
+    "nome": "Até Acertar",
+    "cabecalho": null,
+    "descricao": "Se errar um ataque desarmado, recebe bônus cumulativo de +2 no ataque e dano contra o mesmo alvo até acertar ou fim da cena.",
+    "anexo": null,
+    "referencia": "Tormenta 20 - jogo do ano v1.3, pg. 76",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCLB11002",
+    "nome": "Braços Calejados",
+    "cabecalho": null,
+    "descricao": "Se estiver sem armadura, soma sua Força na Defesa (limitado pelo nível).",
+    "anexo": null,
+    "referencia": "Tormenta 20 - jogo do ano v1.3, pg. 76",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCLB11003",
+    "nome": "Cabeçada",
+    "cabecalho": null,
+    "descricao": "Ao fazer ataque desarmado, gasta 2 PM para deixar o alvo desprevenido contra este ataque (1/cena por alvo).",
+    "anexo": null,
+    "referencia": "Tormenta 20 - jogo do ano v1.3, pg. 76",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCLB11004",
+    "nome": "Chave",
+    "cabecalho": "Luta de Chão",
+    "descricao": "Ao causar dano em criatura agarrada via manobra, o dano desarmado aumenta em um passo. Pré-requisitos: Int 1, Lutador de Chão, 4º nível de lutador.",
+    "anexo": null,
+    "referencia": "Tormenta 20 - jogo do ano v1.3, pg. 76",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCLB11005",
+    "nome": "Confiança dos Ringues",
+    "cabecalho": null,
+    "descricao": "Inimigo erra ataque corpo a corpo contra você: recebe 2 PM temporários (máximo nível/cena). Pré-requisito: 8º nível de lutador.",
+    "anexo": null,
+    "referencia": "Tormenta 20 - jogo do ano v1.3, pg. 76",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCLB11006",
+    "nome": "Convencido",
+    "cabecalho": null,
+    "descricao": "Recebe resistência a medo e mental +5.",
+    "anexo": null,
+    "referencia": "Tormenta 20 - jogo do ano v1.3, pg. 76",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCLB11007",
+    "nome": "Golpe Baixo",
+    "cabecalho": null,
+    "descricao": "Ao acertar ataque desarmado, gasta 2 PM: alvo deve passar em Fortitude (CD For) ou fica atordoado por 1 rodada (1/cena por alvo).",
+    "anexo": null,
+    "referencia": "Tormenta 20 - jogo do ano v1.3, pg. 76",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCLB11008",
+    "nome": "Golpe Imprudente",
+    "cabecalho": null,
+    "descricao": "Ao usar Golpe Relâmpago, ataques ganham um dado de dano extra, mas sofre –5 na Defesa até o próximo turno.",
+    "anexo": null,
+    "referencia": "Tormenta 20 - jogo do ano v1.3, pg. 77",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCLB11009",
+    "nome": "Imobilização",
+    "cabecalho": "Luta de Chão",
+    "descricao": "Ação completa e teste de manobra contra alvo agarrado para deixá-lo indefeso. Requer teste de manobra do alvo para soltar. Pré-requisitos: Chave, 8º nível de lutador.",
+    "anexo": null,
+    "referencia": "Tormenta 20 - jogo do ano v1.3, pg. 77",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCLB11010",
+    "nome": "Língua dos Becos",
+    "cabecalho": null,
+    "descricao": "Paga 1 PM para usar Força em vez de Carisma em testes de perícia. Pré-requisitos: For 1, treinado em Intimidação.",
+    "anexo": null,
+    "referencia": "Tormenta 20 - jogo do ano v1.3, pg. 77",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCLB11011",
+    "nome": "Lutador de Chão",
+    "cabecalho": "Luta de Chão",
+    "descricao": "Recebe +2 em agarrar e derrubar. Ao agarrar, gasta 1 PM para derrubar como ação livre.",
+    "anexo": null,
+    "referencia": "Tormenta 20 - jogo do ano v1.3, pg. 77",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCLB11012",
+    "nome": "Nome na Arena",
+    "cabecalho": null,
+    "descricao": "Ação completa e teste de Luta (CD 10). Se passar, recebe +2 (ou mais) em perícias de Carisma e melhora atitude de fãs de lutas. Pré-requisito: 11º nível de lutador.",
+    "anexo": null,
+    "referencia": "Tormenta 20 - jogo do ano v1.3, pg. 77",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCLB11013",
+    "nome": "Punhos de Adamante",
+    "cabecalho": null,
+    "descricao": "Ataques desarmados ignoram 10 pontos de RD. Pré-requisito: 8º nível de lutador.",
+    "anexo": null,
+    "referencia": "Tormenta 20 - jogo do ano v1.3, pg. 77",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCLB11014",
+    "nome": "Rasteira",
+    "cabecalho": null,
+    "descricao": "Gasta 2 PM em ataque desarmado contra alvo até um tamanho maior: se acertar, o alvo cai.",
+    "anexo": null,
+    "referencia": "Tormenta 20 - jogo do ano v1.3, pg. 77",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCLB11015",
+    "nome": "Sarado",
+    "cabecalho": null,
+    "descricao": "Soma Força no total de PV e em Fortitude. Pode usar Força em Diplomacia com quem se atrai por físicos definidos. Pré-requisito: For 3.",
+    "anexo": null,
+    "referencia": "Tormenta 20 - jogo do ano v1.3, pg. 77",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCLB11016",
+    "nome": "Sequência Destruidora",
+    "cabecalho": "Trocação",
+    "descricao": "Gasta 2 PM e diz um número (N). Se acertar N ataques, o último recebe +4 de dano para cada ataque feito na sequência. Pré-requisitos: Trocação, 12º nível.",
+    "anexo": null,
+    "referencia": "Tormenta 20 - jogo do ano v1.3, pg. 77",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCLB11017",
+    "nome": "Trincado",
+    "cabecalho": null,
+    "descricao": "Soma Constituição no dano desarmado. Pré-requisitos: Con 3, Sarado, 10º nível de lutador.",
+    "anexo": null,
+    "referencia": "Tormenta 20 - jogo do ano v1.3, pg. 77",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCLB11018",
+    "nome": "Trocação",
+    "cabecalho": "Trocação",
+    "descricao": "Ao acertar ataque desarmado, faz outro pagando PM igual aos ataques já feitos na rodada. Continua até errar ou acabar o mana. Pré-requisito: 6º nível de lutador.",
+    "anexo": null,
+    "referencia": "Tormenta 20 - jogo do ano v1.3, pg. 77",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCLB11019",
+    "nome": "Trocação Tumultuosa",
+    "cabecalho": "Trocação",
+    "descricao": "Gasta 2 PM antes de agredir: atinge todas as criaturas adjacentes com um único teste. Pré-requisitos: Trocação, 8º nível de lutador.",
+    "anexo": null,
+    "referencia": "Tormenta 20 - jogo do ano v1.3, pg. 77",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCLB11020",
+    "nome": "Valentão",
+    "cabecalho": null,
+    "descricao": "Recebe +2 no ataque e dano contra alvos caídos, desprevenidos, flanqueados ou indefesos.",
+    "anexo": null,
+    "referencia": "Tormenta 20 - jogo do ano v1.3, pg. 77",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCLB11021",
+    "nome": "Voadora",
+    "cabecalho": null,
+    "descricao": "Investida desarmada por 2 PM: +1d6 de dano a cada 3m deslocados (limite nível).",
+    "anexo": null,
+    "referencia": "Tormenta 20 - jogo do ano v1.3, pg. 77",
+    "tipo": "poder de classe",
+    "origem": null
+  }
+]

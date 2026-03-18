@@ -1,0 +1,202 @@
+[
+  {
+    "id": "PCHA11000",
+    "nome": "Aquecimento",
+    "cabecalho": null,
+    "descricao": "No primeiro turno, ação completa para somar Constituição nos ataques desarmados (limite nível) e receber PV temporários (Con + nível) até o fim da cena.",
+    "anexo": null,
+    "referencia": "Heróis de Arton v1.1, pg. 73",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCHA11001",
+    "nome": "Caminhar pelas Paredes",
+    "cabecalho": null,
+    "descricao": "Recebe +10 em Atletismo para saltar e pode se mover por paredes e tetos. Cai se terminar o movimento em uma parede. Pré-requisito: treinado em Atletismo.",
+    "anexo": null,
+    "referencia": "Heróis de Arton v1.1, pg. 73",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCHA11002",
+    "nome": "Caminho Suave",
+    "cabecalho": null,
+    "descricao": "Ao fazer manobra com ataque desarmado, pode gastar PM (limite Sab). Cada PM concede +2 no teste. Pré-requisito: Sab 1.",
+    "anexo": null,
+    "referencia": "Heróis de Arton v1.1, pg. 73",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCHA11003",
+    "nome": "Combinação: Boca do Estômago",
+    "cabecalho": "Combinação",
+    "descricao": "Gasta 1 PM no ataque: se acertar, recebe bônus no dano igual à contagem de combinações e o alvo fica enjoado até o fim do seu próximo turno.",
+    "anexo": null,
+    "referencia": "Heróis de Arton v1.1, pg. 73",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCHA11004",
+    "nome": "Combinação: Chute Circular",
+    "cabecalho": "Combinação",
+    "descricao": "Gasta 2 PM no ataque: se acertar, causa +1d6 de dano por ponto de combinação e pode fazer manobra empurrar (ação livre). Pré-requisito: outro poder de Combinação.",
+    "anexo": null,
+    "referencia": "Heróis de Arton v1.1, pg. 73",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCHA11005",
+    "nome": "Combinação: Chute no Joelho",
+    "cabecalho": "Combinação",
+    "descricao": "Gasta 1 PM no ataque: se acertar, alvo fica lento e sofre penalidade no ataque e dano igual à sua contagem de combinações até o fim do próximo turno.",
+    "anexo": null,
+    "referencia": "Heróis de Arton v1.1, pg. 73",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCHA11006",
+    "nome": "Combinação: Esquiva Técnica",
+    "cabecalho": "Combinação",
+    "descricao": "Uma vez/rodada, ao sofrer ataque corpo a corpo, gasta 2 PM para teste de Reflexos (com bônus de combinação) vs Percepção do atacante. Se vencer, evita o ataque e ganha +5 no próximo ataque desarmado contra ele. Pré-requisito: um poder de Combinação.",
+    "anexo": null,
+    "referencia": "Heróis de Arton v1.1, pg. 73",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCHA11007",
+    "nome": "Combinação: Quebra-guarda",
+    "cabecalho": "Combinação",
+    "descricao": "Gasta 1 PM no ataque para ganhar bônus no teste igual à contagem de combinações. Se acertar, ignora habilidades de redução de dano/RD e o alvo fica vulnerável até o fim do próximo turno.",
+    "anexo": null,
+    "referencia": "Heróis de Arton v1.1, pg. 73",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCHA11008",
+    "nome": "Combinação: Um-Dois",
+    "cabecalho": "Combinação",
+    "descricao": "Gasta 1 PM no ataque para flanquear sozinho. Se acertar, recebe bônus na Defesa igual à contagem de combinações até o fim do próximo turno. Pré-requisito: Jogo de Pernas.",
+    "anexo": null,
+    "referencia": "Heróis de Arton v1.1, pg. 74",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCHA11009",
+    "nome": "Combinação: Técnica de Sacrifício",
+    "cabecalho": "Combinação",
+    "descricao": "Gasta 1 PM para manobra agarrar (bônus de combinação). Se vencer, ambos ficam caídos e o alvo sofre dano de ataque desarmado. ",
+    "anexo": null,
+    "referencia": "Heróis de Arton v1.1, pg. 74",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCHA11010",
+    "nome": "Corpo Fechado",
+    "cabecalho": null,
+    "descricao": "Ao fazer teste de resistência, pode gastar 1 PM para somar sua Constituição no teste.",
+    "anexo": null,
+    "referencia": "Heróis de Arton v1.1, pg. 74",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCHA11011",
+    "nome": "Dança Marcial",
+    "cabecalho": null,
+    "descricao": "Ação de movimento e 2 PM para bônus de +2 na Defesa, Acrobacia e fintas. Bônus escala com nível e PM extra. Dura até fim da cena ou sofrer condição de movimento/atordoamento. Pré-requisitos: Acrobacia e Atuação.",
+    "anexo": null,
+    "referencia": "Heróis de Arton v1.1, pg. 74",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCHA11012",
+    "nome": "Gingado Elusivo",
+    "cabecalho": null,
+    "descricao": "Sob Dança Marcial, gasta 2 PM para ganhar +5 na Defesa/Reflexos contra um efeito hostil e salta para espaço adjacente após a resolução. Pré-requisitos: Dança Marcial, 7º nível.",
+    "anexo": null,
+    "referencia": "Heróis de Arton v1.1, pg. 74",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCHA11013",
+    "nome": "Invencível",
+    "cabecalho": null,
+    "descricao": "Gasta 2 PM para somar Força em testes de Carisma. Se reduzido a 0 PV, gasta 5 PM para recuperar metade dos PV máximos. Pré-requisitos: Nome na Arena, 17º nível.",
+    "anexo": null,
+    "referencia": "Heróis de Arton v1.1, pg. 74",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCHA11014",
+    "nome": "Jogo de Pernas",
+    "cabecalho": null,
+    "descricao": "Uma vez/rodada, ao fazer ataque corpo a corpo, move-se 1,5m sem ativar reações. Pré-requisito: Des 1.",
+    "anexo": null,
+    "referencia": "Heróis de Arton v1.1, pg. 74",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCHA11015",
+    "nome": "Mestre das Combinações",
+    "cabecalho": "Combinação",
+    "descricao": "Contagem de combinações aumenta em +2 por ataque diferente acertado. Pré-requisitos: dois poderes de Combinação.",
+    "anexo": null,
+    "referencia": "Heróis de Arton v1.1, pg. 74",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCHA11016",
+    "nome": "Rilhar os Dentes",
+    "cabecalho": null,
+    "descricao": "Ao sofrer dano corpo a corpo, gasta 1 PM para receber RD igual a 5 + Constituição contra esse dano.",
+    "anexo": null,
+    "referencia": "Heróis de Arton v1.1, pg. 74",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCHA11017",
+    "nome": "Rolamento Escapatório",
+    "cabecalho": null,
+    "descricao": "Ao falhar em teste contra condição de movimento, gasta 2 PM para rerolar usando Acrobacia. Pré-requisito: treinado em Acrobacia.",
+    "anexo": null,
+    "referencia": "Heróis de Arton v1.1, pg. 74",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCHA11018",
+    "nome": "Ruas Furiosas",
+    "cabecalho": null,
+    "descricao": "Ao destruir objeto de inimigo via manobra quebrar, recebe PV temporários (1d6 x Constituição).",
+    "anexo": null,
+    "referencia": "Heróis de Arton v1.1, pg. 74",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCHA11019",
+    "nome": "Sequência Defensiva",
+    "cabecalho": null,
+    "descricao": "Ao acertar ataque desarmado, recebe +2 na Defesa contra o alvo (cumulativo) até o próximo turno.",
+    "anexo": null,
+    "referencia": "Heróis de Arton v1.1, pg. 74",
+    "tipo": "poder de classe",
+    "origem": null
+  }
+]
