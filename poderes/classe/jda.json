@@ -1,0 +1,222 @@
+[
+  {
+    "id": "PCLB04000",
+    "nome": "Ambidestria",
+    "cabecalho": null,
+    "descricao": "Se estiver empunhando duas armas (e pelo menos uma delas for leve) e fizer a ação agredir, você pode fazer dois ataques, um com cada arma. Se fizer isso, sofre –2 em todos os testes de ataque até o seu próximo turno. Pré-requisito: Des 2.",
+    "anexo": null,
+    "referencia": "Tormenta 20 - jogo do ano v1.3, pg. 50",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCLB04001",
+    "nome": "Armadilha: Arataca",
+    "cabecalho": "Armadilha",
+    "descricao": "A vítima sofre 2d6 pontos de dano de perfuração e fica agarrada. Uma criatura agarrada pode escapar com uma ação padrão e um teste de Força ou Acrobacia (CD Sab).",
+    "anexo": null,
+    "referencia": "Tormenta 20 - jogo do ano v1.3, pg. 50",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCLB04002",
+    "nome": "Armadilha: Espinhos",
+    "cabecalho": "Armadilha",
+    "descricao": "A vítima sofre 6d6 pontos de dano de perfuração. Um teste de Reflexos (CD Sab) reduz o dano à metade.",
+    "anexo": null,
+    "referencia": "Tormenta 20 - jogo do ano v1.3, pg. 50",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCLB04003",
+    "nome": "Armadilha: Laço",
+    "cabecalho": "Armadilha",
+    "descricao": "A vítima deve fazer um teste de Reflexos (CD Sab). Se passar, fica caída. Se falhar, fica agarrada. Uma criatura agarrada pode se soltar com uma ação padrão e um teste de Força ou Acrobacia (CD Sab).",
+    "anexo": null,
+    "referencia": "Tormenta 20 - jogo do ano v1.3, pg. 50",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCLB04004",
+    "nome": "Armadilha: Rede",
+    "cabecalho": "Armadilha",
+    "descricao": "Todas as criaturas na área ficam enredadas e não podem sair da área. Uma vítima pode se libertar com uma ação padrão e um teste de Força ou Acrobacia (CD 25). Além disso, a área ocupada pela rede é considerada terreno difícil. Nesta armadilha você escolhe quantas criaturas precisam estar na área para ativá-la.",
+    "anexo": null,
+    "referencia": "Tormenta 20 - jogo do ano v1.3, pg. 50",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCLB04005",
+    "nome": "Armadilheiro",
+    "cabecalho": null,
+    "descricao": "Você soma sua Sabedoria no dano e na CD de suas armadilhas (cumulativo). Pré-requisitos: um poder de armadilha, 5º nível de caçador.",
+    "anexo": null,
+    "referencia": "Tormenta 20 - jogo do ano v1.3, pg. 50",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCLB04006",
+    "nome": "Arqueiro",
+    "cabecalho": null,
+    "descricao": "Se estiver usando uma arma de ataque à distância, você soma sua Sabedoria nas rolagens de dano (limitado pelo seu nível). Pré-requisito: Sab 1.",
+    "anexo": null,
+    "referencia": "Tormenta 20 - jogo do ano v1.3, pg. 50",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCLB04007",
+    "nome": "Bote",
+    "cabecalho": null,
+    "descricao": "Se estiver empunhando duas armas e fizer uma investida, você pode pagar 1 PM para fazer um ataque adicional com sua arma secundária. Pré-requisito: Ambidestria, 6º nível de caçador.",
+    "anexo": null,
+    "referencia": "Tormenta 20 - jogo do ano v1.3, pg. 50",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCLB04008",
+    "nome": "Camuflagem",
+    "cabecalho": null,
+    "descricao": "Você pode gastar 2 PM para se esconder mesmo sem camuflagem ou cobertura disponível. Pré-requisito: 6º nível de caçador.",
+    "anexo": null,
+    "referencia": "Tormenta 20 - jogo do ano v1.3, pg. 50",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCLB04009",
+    "nome": "Chuva de Lâminas",
+    "cabecalho": null,
+    "descricao": "Uma vez por rodada, quando usa Ambidestria, você pode pagar 2 PM para fazer um ataque adicional com sua arma primária. Pré-requisitos: Des 4, Ambidestria, 12º nível de caçador.",
+    "anexo": null,
+    "referencia": "Tormenta 20 - jogo do ano v1.3, pg. 50",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCLB04010",
+    "nome": "Companheiro Animal",
+    "cabecalho": null,
+    "descricao": "Você recebe um companheiro animal. Veja o quadro na página 62. Pré-requisito: Car 1, treinado em Adestramento.",
+    "anexo": null,
+    "referencia": "Tormenta 20 - jogo do ano v1.3, pg. 51",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCLB04011",
+    "nome": "Elo com a Natureza",
+    "cabecalho": null,
+    "descricao": "Você soma sua Sabedoria em seu total de pontos de mana e aprende e pode lançar Caminhos da Natureza (atributo-chave Sabedoria). Pré-requisitos: Sab 1, 3º nível de caçador.",
+    "anexo": null,
+    "referencia": "Tormenta 20 - jogo do ano v1.3, pg. 51",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCLB04012",
+    "nome": "Emboscar",
+    "cabecalho": null,
+    "descricao": "Você pode gastar 2 PM para realizar uma ação padrão adicional em seu turno. Você só pode usar este poder na primeira rodada de um combate. Pré-requisito: treinado em Furtividade.",
+    "anexo": null,
+    "referencia": "Tormenta 20 - jogo do ano v1.3, pg. 51",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCLB04013",
+    "nome": "Empatia Selvagem",
+    "cabecalho": null,
+    "descricao": "Você pode se comunicar com animais por meio de linguagem corporal e vocalizações. Você pode usar Adestramento com animais para mudar atitude e persuasão (veja Diplomacia, na página 118).",
+    "anexo": null,
+    "referencia": "Tormenta 20 - jogo do ano v1.3, pg. 51",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCLB04014",
+    "nome": "Escaramuça",
+    "cabecalho": null,
+    "descricao": "Quando se move 6m ou mais, você recebe +2 na Defesa e Reflexos e +1d8 nas rolagens de dano de ataques corpo a corpo e à distância em alcance curto até o início de seu próximo turno. Você não pode usar esta habilidade se estiver vestindo armadura pesada. Pré-requisito: Des 2, 6º nível de caçador.",
+    "anexo": null,
+    "referencia": "Tormenta 20 - jogo do ano v1.3, pg. 51",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCLB04015",
+    "nome": "Escaramuça Superior",
+    "cabecalho": null,
+    "descricao": "Quando usa Escaramuça, seus bônus aumentam para +5 na Defesa e Reflexos e +1d12 em rolagens de dano. Pré-requisitos: Escaramuça, 12º nível de caçador.",
+    "anexo": null,
+    "referencia": "Tormenta 20 - jogo do ano v1.3, pg. 51",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCLB04016",
+    "nome": "Espreitar",
+    "cabecalho": null,
+    "descricao": "Quando usa a habilidade Marca da Presa, você recebe um bônus de +1 em testes de perícia contra a criatura marcada. Esse bônus aumenta em +1 para cada PM adicional gasto na habilidade e também dobra com a habilidade Inimigo.",
+    "anexo": null,
+    "referencia": "Tormenta 20 - jogo do ano v1.3, pg. 51",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCLB04017",
+    "nome": "Ervas Curativas",
+    "cabecalho": null,
+    "descricao": "Você pode gastar uma ação completa e uma quantidade de PM a sua escolha (limitado por sua Sabedoria) para aplicar ervas que curam ou desintoxicam em você ou num aliado adjacente. Para cada PM que gastar, cura 2d6 PV ou remove uma condição envenenado afetando o alvo.",
+    "anexo": null,
+    "referencia": "Tormenta 20 - jogo do ano v1.3, pg. 51",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCLB04018",
+    "nome": "Ímpeto",
+    "cabecalho": null,
+    "descricao": "Você pode gastar 1 PM para aumentar seu deslocamento em +6m por uma rodada.",
+    "anexo": null,
+    "referencia": "Tormenta 20 - jogo do ano v1.3, pg. 51",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCLB04019",
+    "nome": "Inimigo de (Criatura)",
+    "cabecalho": null,
+    "descricao": "Escolha um tipo de criatura entre animal, construto, espírito, monstro ou morto-vivo, ou duas raças humanoides (por exemplo, orcs e gnolls, ou elfos e qareen). Quando você usa a habilidade Marca da Presa contra uma criatura do tipo ou da raça escolhida, dobra os dados de bônus no dano. O nome desta habilidade varia de acordo com o tipo de criatura escolhida (Inimigo de Monstros, Inimigo de Mortos-Vivos etc.). Você pode escolher este poder outras vezes para inimigos diferentes.",
+    "anexo": null,
+    "referencia": "Tormenta 20 - jogo do ano v1.3, pg. 51",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCLB04020",
+    "nome": "Olho do Falcão",
+    "cabecalho": null,
+    "descricao": "Você pode usar a habilidade Marca da Presa em criaturas em alcance longo.",
+    "anexo": null,
+    "referencia": "Tormenta 20 - jogo do ano v1.3, pg. 51",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCLB04021",
+    "nome": "Ponto Fraco",
+    "cabecalho": null,
+    "descricao": "Quando usa a habilidade Marca da Presa, seus ataques contra a criatura marcada recebem +2 na margem de ameaça. Esse bônus dobra com a habilidade Inimigo.",
+    "anexo": null,
+    "referencia": "Tormenta 20 - jogo do ano v1.3, pg. 51",
+    "tipo": "poder de classe",
+    "origem": null
+  }
+]
