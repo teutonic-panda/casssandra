@@ -1,0 +1,212 @@
+[
+  {
+    "id": "PCHA08000",
+    "nome": "Análise Tática",
+    "cabecalho": null,
+    "descricao": "Recebe +2 em Guerra e pode fazer testes dessa perícia para identificar humanoides. Pré-requisito: treinado em Guerra.",
+    "anexo": null,
+    "referencia": "Heróis de Arton v1.1, pg. 68",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCHA08001",
+    "nome": "Arremesso de Investida",
+    "cabecalho": null,
+    "descricao": "Ao fazer uma investida, pode gastar 1 PM para realizar um ataque à distância adicional com uma arma de arremesso contra o alvo.",
+    "anexo": null,
+    "referencia": "Heróis de Arton v1.1, pg. 68",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCHA08002",
+    "nome": "Bloqueio Brutal",
+    "cabecalho": null,
+    "descricao": "Uma vez por rodada, ao ser atingido, pode gastar 2 PM para fazer uma rolagem de dano corpo a corpo e subtrair o resultado do dano recebido. Pré-requisito: For 5.",
+    "anexo": null,
+    "referencia": "Heróis de Arton v1.1, pg. 68",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCHA08003",
+    "nome": "Corte Ágil",
+    "cabecalho": null,
+    "descricao": "Uma vez por rodada, ao atacar com arma ágil ou leve, pode gastar 1 PM para se mover metade do deslocamento (sem ativar reações). Pré-requisito: Des 1.",
+    "anexo": null,
+    "referencia": "Heróis de Arton v1.1, pg. 68",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCHA08004",
+    "nome": "Criar Oportunidade",
+    "cabecalho": "Xadrez de Batalha",
+    "descricao": "Quando você ou aliado ataca criatura sob Xadrez de Batalha, pode gastar 1 PM para causar +1d10 de dano. Pré-requisito: Xadrez de Batalha.",
+    "anexo": null,
+    "referencia": "Heróis de Arton v1.1, pg. 68",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCHA08005",
+    "nome": "Defesa Estratégica",
+    "cabecalho": null,
+    "descricao": "Soma sua Inteligência na Defesa (limitado pelo nível). Pré-requisito: Int 1.",
+    "anexo": null,
+    "referencia": "Heróis de Arton v1.1, pg. 68",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCHA08006",
+    "nome": "Determinação Inabalável",
+    "cabecalho": null,
+    "descricao": "Com metade dos PV ou menos, recebe +2 em resistências e o custo de Durão diminui em –1 PM. Pré-requisito: 11º nível de guerreiro.",
+    "anexo": null,
+    "referencia": "Heróis de Arton v1.1, pg. 68",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCHA08007",
+    "nome": "Estrategista Inspirador",
+    "cabecalho": null,
+    "descricao": "No 1º turno, ação padrão e teste de Guerra: para cada 10 pontos no resultado, você e aliados em alcance curto recebem 1 PM temporário (fim da cena). Pré-requisito: treinado em Guerra.",
+    "anexo": null,
+    "referencia": "Heróis de Arton v1.1, pg. 68",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCHA08008",
+    "nome": "Executor",
+    "cabecalho": null,
+    "descricao": "Recebe +1d6 de dano contra alvos com menos de metade dos PV. Dano aumenta em um passo a cada 4 níveis acima do 1º.",
+    "anexo": null,
+    "referencia": "Heróis de Arton v1.1, pg. 68",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCHA08009",
+    "nome": "Fender Defesas",
+    "cabecalho": null,
+    "descricao": "Ao acertar Ataque Especial, o alvo sofre penalidade na Defesa igual aos PM gastos na habilidade por 1 rodada.",
+    "anexo": null,
+    "referencia": "Heróis de Arton v1.1, pg. 68",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCHA08010",
+    "nome": "Inércia do Aço",
+    "cabecalho": null,
+    "descricao": "Ao acertar arma de duas mãos, pode gastar 3 PM para causar metade do dano a cada inimigo adjacente ao alvo. Pré-requisito: 5º nível de guerreiro.",
+    "anexo": null,
+    "referencia": "Heróis de Arton v1.1, pg. 68",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCHA08011",
+    "nome": "Investida Ricochete",
+    "cabecalho": null,
+    "descricao": "Uma vez por rodada, ao acertar uma investida, pode gastar 2 PM para atacar outra criatura ao alcance como parte do movimento. Pré-requisitos: Bater e Correr, 5º nível de guerreiro.",
+    "anexo": null,
+    "referencia": "Heróis de Arton v1.1, pg. 68",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCHA08012",
+    "nome": "Manobra Dupla",
+    "cabecalho": null,
+    "descricao": "Uma vez por rodada, ao fazer manobra com arma versátil, pode gastar 1 PM para executar uma manobra diferente extra.",
+    "anexo": null,
+    "referencia": "Heróis de Arton v1.1, pg. 68",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCHA08013",
+    "nome": "Mente Disciplinada",
+    "cabecalho": null,
+    "descricao": "Bônus numéricos recebidos de aliados aumentam em +1. Pré-requisito: 6º nível de guerreiro.",
+    "anexo": null,
+    "referencia": "Heróis de Arton v1.1, pg. 68",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCHA08014",
+    "nome": "Operações Combinadas",
+    "cabecalho": "Xadrez de Batalha",
+    "descricao": "Ao usar Ordens de Engajamento, pode gastar +3 PM para atacar junto do aliado; bônus de habilidades de um se aplicam ao outro. Pré-requisitos: Ordens de Engajamento, 14º nível de guerreiro.",
+    "anexo": null,
+    "referencia": "Heróis de Arton v1.1, pg. 69",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCHA08015",
+    "nome": "Ordens de Engajamento",
+    "cabecalho": "Xadrez de Batalha",
+    "descricao": "Ao acertar alvo sob Xadrez de Batalha, gasta 2 PM para um aliado em alcance curto atacar a criatura. Pré-requisitos: Criar Oportunidade, 11º nível de guerreiro.",
+    "anexo": null,
+    "referencia": "Heróis de Arton v1.1, pg. 69",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCHA08016",
+    "nome": "Recuperar Fôlego",
+    "cabecalho": null,
+    "descricao": "Uma vez por cena, se estiver com 0 PM, ação de movimento para recuperar 1d8 PM.",
+    "anexo": null,
+    "referencia": "Heróis de Arton v1.1, pg. 69",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCHA08017",
+    "nome": "Resiliência Marcial",
+    "cabecalho": null,
+    "descricao": "Ao sofrer dano letal, recebe RD 1 cumulativa (limite nível) até o fim da cena ou recuperar PV. Pré-requisito: 4º nível de guerreiro.",
+    "anexo": null,
+    "referencia": "Heróis de Arton v1.1, pg. 69",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCHA08018",
+    "nome": "Soldado de Infantaria",
+    "cabecalho": null,
+    "descricao": "Recebe +3m de deslocamento e limite de carga aumenta em 6 espaços.",
+    "anexo": null,
+    "referencia": "Heróis de Arton v1.1, pg. 69",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCHA08019",
+    "nome": "Velho de Guerra",
+    "cabecalho": null,
+    "descricao": "Recebe +5 em Intimidação e imunidade a medo. Uma vez por cena, gasta 5 PM para evitar completamente um efeito contra você. Pré-requisito: 17º nível de guerreiro.",
+    "anexo": null,
+    "referencia": "Heróis de Arton v1.1, pg. 69",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCHA08020",
+    "nome": "Xadrez de Batalha",
+    "cabecalho": "Xadrez de Batalha",
+    "descricao": "Ação de movimento e 1 PM para analisar oponente: recebe +2 na Defesa e Reflexos contra ele. Bônus aumenta com poderes sinérgicos. Pré-requisito: treinado em Guerra.",
+    "anexo": null,
+    "referencia": "Heróis de Arton v1.1, pg. 69",
+    "tipo": "poder de classe",
+    "origem": null
+  }
+]

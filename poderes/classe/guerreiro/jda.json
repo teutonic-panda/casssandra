@@ -1,0 +1,182 @@
+[
+  {
+    "id": "PCLB08000",
+    "nome": "Ambidestria",
+    "cabecalho": null,
+    "descricao": "Se estiver empunhando duas armas (e pelo menos uma delas for leve) e fizer a ação agredir, você pode fazer dois ataques, um com cada arma. Se fizer isso, sofre –2 em todos os testes de ataque até o seu próximo turno. Pré-requisito: Des 2.",
+    "anexo": null,
+    "referencia": "Tormenta 20 - jogo do ano v1.3, pg. 65",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCLB08001",
+    "nome": "Arqueiro",
+    "cabecalho": null,
+    "descricao": "Se estiver usando uma arma de ataque à distância, você soma sua Sabedoria em rolagens de dano (limitado pelo seu nível). Pré-requisito: Sab 1.",
+    "anexo": null,
+    "referencia": "Tormenta 20 - jogo do ano v1.3, pg. 65",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCLB08002",
+    "nome": "Ataque Reflexo",
+    "cabecalho": null,
+    "descricao": "Se um alvo em alcance corpo a corpo ficar desprevenido ou se mover voluntariamente para fora do alcance, você pode gastar 1 PM para fazer um ataque corpo a corpo contra ele (uma vez por alvo/rodada). Pré-requisito: Des 1.",
+    "anexo": null,
+    "referencia": "Tormenta 20 - jogo do ano v1.3, pg. 65",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCLB08003",
+    "nome": "Bater e Correr",
+    "cabecalho": null,
+    "descricao": "Ao fazer investida, pode continuar se movendo após o ataque até o limite do deslocamento. Por 2 PM, pode fazer investida sobre terreno difícil e sem penalidade na Defesa.",
+    "anexo": null,
+    "referencia": "Tormenta 20 - jogo do ano v1.3, pg. 65",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCLB08004",
+    "nome": "Destruidor",
+    "cabecalho": null,
+    "descricao": "Ao causar dano com arma corpo a corpo de duas mãos, pode rolar novamente qualquer resultado 1 ou 2 do dano da arma. Pré-requisito: For 1.",
+    "anexo": null,
+    "referencia": "Tormenta 20 - jogo do ano v1.3, pg. 65",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCLB08005",
+    "nome": "Esgrimista",
+    "cabecalho": null,
+    "descricao": "Ao usar arma corpo a corpo leve ou ágil, soma sua Inteligência no dano (limitado pelo nível). Pré-requisito: Int 1.",
+    "anexo": null,
+    "referencia": "Tormenta 20 - jogo do ano v1.3, pg. 65",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCLB08006",
+    "nome": "Especialização em Arma",
+    "cabecalho": null,
+    "descricao": "Escolha uma arma. Você recebe +2 em rolagens de dano com essa arma. Pode ser escolhido outras vezes para armas diferentes.",
+    "anexo": null,
+    "referencia": "Tormenta 20 - jogo do ano v1.3, pg. 65",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCLB08007",
+    "nome": "Especialização em Armadura",
+    "cabecalho": null,
+    "descricao": "Recebe redução de dano 5 se estiver usando armadura pesada. Pré-requisito: 12º nível de guerreiro.",
+    "anexo": null,
+    "referencia": "Tormenta 20 - jogo do ano v1.3, pg. 65",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCLB08008",
+    "nome": "Golpe de Raspão",
+    "cabecalho": null,
+    "descricao": "Uma vez por rodada, ao errar um ataque, pode gastar 2 PM para causar metade do dano (ignorando efeitos de acerto).",
+    "anexo": null,
+    "referencia": "Tormenta 20 - jogo do ano v1.3, pg. 65",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCLB08009",
+    "nome": "Golpe Demolidor",
+    "cabecalho": null,
+    "descricao": "Ao usar manobra quebrar ou atacar objeto, pode gastar 2 PM para ignorar a redução de dano dele.",
+    "anexo": null,
+    "referencia": "Tormenta 20 - jogo do ano v1.3, pg. 65",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCLB08010",
+    "nome": "Golpe Pessoal",
+    "cabecalho": null,
+    "descricao": "Ao atacar, pode desferir uma técnica única construída com efeitos customizados. Requer arma específica. Pode ser escolhido várias vezes para golpes diferentes. Pré-requisito: 5º nível de guerreiro.",
+    "anexo": null,
+    "referencia": "Tormenta 20 - jogo do ano v1.3, pg. 65",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCLB08011",
+    "nome": "Ímpeto",
+    "cabecalho": null,
+    "descricao": "Pode gastar 1 PM para aumentar o deslocamento em +6m por uma rodada.",
+    "anexo": null,
+    "referencia": "Tormenta 20 - jogo do ano v1.3, pg. 66",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCLB08012",
+    "nome": "Mestre em Arma",
+    "cabecalho": null,
+    "descricao": "Escolha uma arma. Com ela, o dano aumenta em um passo e pode gastar 2 PM para rolar novamente um teste de ataque. Pré-requisitos: Especialização em Arma, 12º nível de guerreiro.",
+    "anexo": null,
+    "referencia": "Tormenta 20 - jogo do ano v1.3, pg. 66",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCLB08013",
+    "nome": "Planejamento Marcial",
+    "cabecalho": null,
+    "descricao": "Uma vez por dia, gasta 1 hora e 3 PM para escolher um poder de guerreiro ou combate (cumprindo requisitos) para usar até o próximo dia. Pré-requisitos: treinado em Guerra, 10º nível de guerreiro.",
+    "anexo": null,
+    "referencia": "Tormenta 20 - jogo do ano v1.3, pg. 66",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCLB08014",
+    "nome": "Romper Resistências",
+    "cabecalho": null,
+    "descricao": "Ao fazer Ataque Especial, pode gastar +1 PM para ignorar 10 pontos de redução de dano.",
+    "anexo": null,
+    "referencia": "Tormenta 20 - jogo do ano v1.3, pg. 66",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCLB08015",
+    "nome": "Solidez",
+    "cabecalho": null,
+    "descricao": "Se estiver usando um escudo, soma o bônus de Defesa do escudo em testes de resistência.",
+    "anexo": null,
+    "referencia": "Tormenta 20 - jogo do ano v1.3, pg. 66",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCLB08016",
+    "nome": "Tornado de Dor",
+    "cabecalho": null,
+    "descricao": "Ação padrão e 2 PM para atacar todos os inimigos em alcance natural. Recebe +2 de dano cumulativo para cada acerto. Pré-requisito: 6º nível de guerreiro.",
+    "anexo": null,
+    "referencia": "Tormenta 20 - jogo do ano v1.3, pg. 66",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCLB08017",
+    "nome": "Valentão",
+    "cabecalho": null,
+    "descricao": "Recebe +2 no ataque e dano contra oponentes caídos, desprevenidos, flanqueados ou indefesos.",
+    "anexo": null,
+    "referencia": "Tormenta 20 - jogo do ano v1.3, pg. 66",
+    "tipo": "poder de classe",
+    "origem": null
+  }
+]
