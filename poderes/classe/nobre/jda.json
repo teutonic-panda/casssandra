@@ -1,0 +1,172 @@
+[
+  {
+    "id": "PCLB12000",
+    "nome": "Armadura Brilhante",
+    "cabecalho": null,
+    "descricao": "Você pode usar seu Carisma na Defesa quando usa armadura pesada. Se fizer isso, não pode somar sua Destreza, mesmo que outras habilidades ou efeitos permitam isso. Pré-requisito: 8º nível de nobre.",
+    "anexo": null,
+    "referencia": "Tormenta 20 - jogo do ano v1.3, pg. 79",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCLB12001",
+    "nome": "Autoridade Feudal",
+    "cabecalho": null,
+    "descricao": "Gasta uma hora e 2 PM para conclamar o povo. Conta como um parceiro iniciante de um tipo à sua escolha até o fim da aventura. Apenas em locais onde sua posição tenha influência. Pré-requisito: 6º nível de nobre.",
+    "anexo": null,
+    "referencia": "Tormenta 20 - jogo do ano v1.3, pg. 79",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCLB12002",
+    "nome": "Educação Privilegiada",
+    "cabecalho": null,
+    "descricao": "Você se torna treinado em duas perícias de nobre a sua escolha.",
+    "anexo": null,
+    "referencia": "Tormenta 20 - jogo do ano v1.3, pg. 79",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCLB12003",
+    "nome": "Estrategista",
+    "cabecalho": "Comando",
+    "descricao": "Ação padrão e 1 PM por aliado (limite Car). No próximo turno, cada aliado direcionado ganha uma ação de movimento. Pré-requisitos: Int 1, Guerra, 6º nível de nobre.",
+    "anexo": null,
+    "referencia": "Tormenta 20 - jogo do ano v1.3, pg. 79",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCLB12004",
+    "nome": "Favor",
+    "cabecalho": "Diplomacia",
+    "descricao": "Gasta 5 PM e tempo de conversa para pedir favores difíceis ou perigosos a poderosos. Se falhar, não pode repetir o mesmo favor por uma semana.",
+    "anexo": null,
+    "referencia": "Tormenta 20 - jogo do ano v1.3, pg. 79",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCLB12005",
+    "nome": "General",
+    "cabecalho": "Comando",
+    "descricao": "Quando usa Estrategista, aliados direcionados recebem 1d4 PM temporários até o fim de seus turnos. Pré-requisitos: Estrategista, 12º nível de nobre.",
+    "anexo": null,
+    "referencia": "Tormenta 20 - jogo do ano v1.3, pg. 79",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCLB12006",
+    "nome": "Grito Tirânico",
+    "cabecalho": null,
+    "descricao": "Palavras Afiadas vira ação completa, dano aumenta para d8 e atinge todos os inimigos em alcance curto. Pré-requisito: 8º nível de nobre.",
+    "anexo": null,
+    "referencia": "Tormenta 20 - jogo do ano v1.3, pg. 80",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCLB12007",
+    "nome": "Inspirar Confiança",
+    "cabecalho": "Comando",
+    "descricao": "Quando um aliado em alcance curto faz um teste, você pode gastar 2 PM para que ele role o teste novamente.",
+    "anexo": null,
+    "referencia": "Tormenta 20 - jogo do ano v1.3, pg. 80",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCLB12008",
+    "nome": "Inspirar Glória",
+    "cabecalho": "Comando",
+    "descricao": "Uma vez por rodada, gasta 5 PM para um aliado ganhar uma ação padrão extra no próximo turno (1/cena por aliado). Pré-requisitos: Inspirar Confiança, 8º nível de nobre.",
+    "anexo": null,
+    "referencia": "Tormenta 20 - jogo do ano v1.3, pg. 80",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCLB12009",
+    "nome": "Jogo da Corte",
+    "cabecalho": "Diplomacia",
+    "descricao": "Gasta 1 PM para rerolar um teste de Diplomacia, Intuição ou Nobreza.",
+    "anexo": null,
+    "referencia": "Tormenta 20 - jogo do ano v1.3, pg. 80",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCLB12010",
+    "nome": "Liderar pelo Exemplo",
+    "cabecalho": "Comando",
+    "descricao": "Gasta 2 PM: até seu próximo turno, se passar em um teste de perícia, aliados em alcance curto podem usar seu resultado. Pré-requisito: 6º nível de nobre.",
+    "anexo": null,
+    "referencia": "Tormenta 20 - jogo do ano v1.3, pg. 80",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCLB12011",
+    "nome": "Língua de Ouro",
+    "cabecalho": "Diplomacia",
+    "descricao": "Ação padrão e 4 PM: efeito de Enfeitiçar (sugerir ação) em todas as criaturas no alcance (CD Car). Não é habilidade mágica. Pré-requisitos: Língua de Prata, 8º nível de nobre.",
+    "anexo": null,
+    "referencia": "Tormenta 20 - jogo do ano v1.3, pg. 80",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCLB12012",
+    "nome": "Língua de Prata",
+    "cabecalho": "Diplomacia",
+    "descricao": "Em testes de Carisma, gasta 2 PM para receber bônus igual a metade do seu nível. ",
+    "anexo": null,
+    "referencia": "Tormenta 20 - jogo do ano v1.3, pg. 80",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCLB12013",
+    "nome": "Língua Rápida",
+    "cabecalho": "Diplomacia",
+    "descricao": "Ao mudar atitude como ação completa, a penalidade é de –5 em vez de –10.",
+    "anexo": null,
+    "referencia": "Tormenta 20 - jogo do ano v1.3, pg. 80",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCLB12014",
+    "nome": "Presença Majestosa",
+    "cabecalho": null,
+    "descricao": "Presença Aristocrática afeta qualquer criatura com Inteligência e pode ser usada mais de uma vez na mesma criatura/cena. Pré-requisitos: 16º nível de nobre.",
+    "anexo": null,
+    "referencia": "Tormenta 20 - jogo do ano v1.3, pg. 80",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCLB12015",
+    "nome": "Título",
+    "cabecalho": null,
+    "descricao": "Recebe título de nobreza. Início da aventura: 20 TO/nível ou ajuda de parceiro veterano. Requer terras conquistadas ou serviço a suserano. Pré-requisitos: Autoridade Feudal, 10º nível de nobre.",
+    "anexo": null,
+    "referencia": "Tormenta 20 - jogo do ano v1.3, pg. 80",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCLB12016",
+    "nome": "Voz Poderosa",
+    "cabecalho": null,
+    "descricao": "Recebe +2 em Diplomacia e Intimidação. Suas habilidades de nobre passam de alcance curto para médio.",
+    "anexo": null,
+    "referencia": "Tormenta 20 - jogo do ano v1.3, pg. 80",
+    "tipo": "poder de classe",
+    "origem": null
+  }
+]

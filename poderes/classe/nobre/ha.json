@@ -1,0 +1,202 @@
+[
+  {
+    "id": "PCHA12000",
+    "nome": "Agente de Elite",
+    "cabecalho": "Linhagem",
+    "descricao": "Recebe um agente especial (parceiro veterano) ou um poder de outra classe (nível de nobre –4). Pode trocar o agente no início de cada aventura. Pré-requisitos: Título, 11º nível de nobre.",
+    "anexo": null,
+    "referencia": "Heróis de Arton v1.1, pg. 75",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCHA12001",
+    "nome": "Comandante de Campo",
+    "cabecalho": "Comando",
+    "descricao": "Seus capangas recebem +2 no dano e bônus na Defesa igual ao seu Carisma. Recebe um capanga adicional sempre que contratar ou receber. Pré-requisito: 5º nível de nobre.",
+    "anexo": null,
+    "referencia": "Heróis de Arton v1.1, pg. 75",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCHA12002",
+    "nome": "Comitiva",
+    "cabecalho": "Comando",
+    "descricao": "Seu limite de parceiros aumenta em +1. No 11º nível, aumenta em +1 adicional. Pré-requisito: 5º nível de nobre.",
+    "anexo": null,
+    "referencia": "Heróis de Arton v1.1, pg. 75",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCHA12003",
+    "nome": "Discurso de Batalha",
+    "cabecalho": "Comando",
+    "descricao": "No 1º turno, ação completa e teste de Diplomacia ou Intimidação: para cada 10 pontos, você e aliados em alcance curto recebem 2 PM temporários (fim da cena).",
+    "anexo": null,
+    "referencia": "Heróis de Arton v1.1, pg. 75",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCHA12004",
+    "nome": "Fofocas da Corte",
+    "cabecalho": "Diplomacia",
+    "descricao": "Gasta 1 hora em ambiente social para obter informação útil e 4d6 dados de auxílio para testes de Carisma no local. Pré-requisitos: Intuição e Investigação.",
+    "anexo": null,
+    "referencia": "Heróis de Arton v1.1, pg. 75",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCHA12005",
+    "nome": "Guarda Pessoal",
+    "cabecalho": "Comando",
+    "descricao": "Recebe um pelotão de infantaria veterano como guarda-costas (mestre no 11º nível). Reposição em uma semana se perdido. Pré-requisito: 5º nível de nobre.",
+    "anexo": null,
+    "referencia": "Heróis de Arton v1.1, pg. 75",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCHA12006",
+    "nome": "Hedonismo Aristocrático",
+    "cabecalho": "Linhagem",
+    "descricao": "Gasta 1 hora e T$ para luxos: recebe PM temporários por patamar (4 PM por T$ 100, 5 PM por T$ 500, 6 PM por T$ 2.000) até o fim do dia (1/dia).",
+    "anexo": null,
+    "referencia": "Heróis de Arton v1.1, pg. 75",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCHA12007",
+    "nome": "Instigar Violência",
+    "cabecalho": "Comando",
+    "descricao": "Quando aliado em alcance curto faz acerto crítico, pode gastar 3 PM para que ele faça um ataque extra (1/rodada por aliado). Pré-requisitos: Guerra, 11º nível.",
+    "anexo": null,
+    "referencia": "Heróis de Arton v1.1, pg. 75",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCHA12008",
+    "nome": "Insuflar Investida",
+    "cabecalho": "Comando",
+    "descricao": "Ao fazer investida, gasta 1 PM por aliado em alcance curto: a próxima investida de cada um até seu próximo turno causa +2d8 de dano. Pré-requisito: Estrategista.",
+    "anexo": null,
+    "referencia": "Heróis de Arton v1.1, pg. 75",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCHA12009",
+    "nome": "Legado Mágico",
+    "cabecalho": "Linhagem",
+    "descricao": "Recebe item mágico menor (médio no 14º, maior no 17º). Pode substituir o item no início de cada aventura. Pré-requisito: 11º nível de nobre.",
+    "anexo": null,
+    "referencia": "Heróis de Arton v1.1, pg. 75",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCHA12010",
+    "nome": "Líder Enérgico",
+    "cabecalho": "Comando",
+    "descricao": "Soma Carisma em Iniciativa. Se for o primeiro, usa habilidade de nobre (padrão/movimento) como ação livre no 1º turno. Pré-requisito: Iniciativa.",
+    "anexo": null,
+    "referencia": "Heróis de Arton v1.1, pg. 75",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCHA12011",
+    "nome": "Líder Impiedoso",
+    "cabecalho": "Comando",
+    "descricao": "Sempre que um aliado sob Gritar Ordens fizer acerto crítico ou reduzir alvo a 0 PV, você recupera 1 PM. Pré-requisito: 5º nível de nobre.",
+    "anexo": null,
+    "referencia": "Heróis de Arton v1.1, pg. 75",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCHA12012",
+    "nome": "Linhagem Distinta",
+    "cabecalho": "Linhagem",
+    "descricao": "Custo de Orgulho diminui em –1 PM. Uma vez/cena, gasta +5 PM em Orgulho para dobrar bônus e rolar dois dados (melhor resultado). Pré-requisito: 17º nível de nobre.",
+    "anexo": null,
+    "referencia": "Heróis de Arton v1.1, pg. 75",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCHA12013",
+    "nome": "Ordens Agressivas",
+    "cabecalho": "Comando",
+    "descricao": "Gritar Ordens também soma seu bônus na primeira rolagem de dano dos aliados até seu próximo turno. Pré-requisito: 5º nível de nobre.",
+    "anexo": null,
+    "referencia": "Heróis de Arton v1.1, pg. 76",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCHA12014",
+    "nome": "Ordens Encorajadoras",
+    "cabecalho": "Comando",
+    "descricao": "Gritar Ordens também fornece 10 PV temporários cumulativos até o fim da cena. Pré-requisito: 5º nível de nobre.",
+    "anexo": null,
+    "referencia": "Heróis de Arton v1.1, pg. 76",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCHA12015",
+    "nome": "Palavras de Efeito",
+    "cabecalho": "Diplomacia",
+    "descricao": "Soma Carisma no dano de Palavras Afiadas e reduz ação necessária em um passo (ex: padrão para movimento). Pré-requisito: 5º nível de nobre.",
+    "anexo": null,
+    "referencia": "Heróis de Arton v1.1, pg. 76",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCHA12016",
+    "nome": "Palavras Ressonantes",
+    "cabecalho": "Diplomacia",
+    "descricao": "Ao rolar Palavras Afiadas, se obtiver o máximo ou um ponto abaixo no dado (ex: 5 ou 6 em 1d6), rola um dado extra. Pré-requisito: 5º nível de nobre.",
+    "anexo": null,
+    "referencia": "Heróis de Arton v1.1, pg. 76",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCHA12017",
+    "nome": "Protocolo Impecável",
+    "cabecalho": "Diplomacia",
+    "descricao": "Gasta 2 PM e teste de Nobreza (CD 20) em ambiente social para melhorar atitude de todos em uma categoria. Bônus por superar CD. Pré-requisitos: Nobreza, Jogo da Corte.",
+    "anexo": null,
+    "referencia": "Heróis de Arton v1.1, pg. 76",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCHA12018",
+    "nome": "Senescal",
+    "cabecalho": "Linhagem",
+    "descricao": "Recebe +1 por patamar em perícias de ações de estrutura (base, domínio, negócio) e uma ação de estrutura adicional por turno. Pré-requisito: 5º nível de nobre.",
+    "anexo": null,
+    "referencia": "Heróis de Arton v1.1, pg. 76",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCHA12019",
+    "nome": "Voz Límpida",
+    "cabecalho": "Comando",
+    "descricao": "Habilidades de nobre que afetem aliados custam –1 PM (não reduz efeitos baseados no custo pago).",
+    "anexo": null,
+    "referencia": "Heróis de Arton v1.1, pg. 76",
+    "tipo": "poder de classe",
+    "origem": null
+  }
+]
