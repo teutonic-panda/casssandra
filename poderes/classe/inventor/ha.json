@@ -1,0 +1,202 @@
+[
+  {
+    "id": "PCHA09000",
+    "nome": "Alquimista Exímio",
+    "cabecalho": "Alquimista",
+    "descricao": "A CD para resistir aos seus preparados e poções aumenta em +2. Se o item causar dano ou recuperar PV/PM, o efeito aumenta em +1 por dado. Pré-requisito: Alquimista Iniciado.",
+    "anexo": null,
+    "referencia": "Heróis de Arton v1.1, pg. 70",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCHA09001",
+    "nome": "Alterar Programação",
+    "cabecalho": "Artesão",
+    "descricao": "Ação completa e 3 PM. Teste de Ofício (artesão) oposto à Vontade de um construto (Int –4 ou menor). Se vencer, ele fica confuso e vulnerável por 1 rodada. Lacaios ficam sob seu controle. Pré-requisito: treinado em Ofício (artesão).",
+    "anexo": null,
+    "referencia": "Heróis de Arton v1.1, pg. 70",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCHA09002",
+    "nome": "Aparato Personalizado",
+    "cabecalho": "Engenhoqueiro",
+    "descricao": "O primeiro aparato de cada uma de suas engenhocas não aumenta a CD para ativá-la. Pré-requisito: Engenhoqueiro.",
+    "anexo": null,
+    "referencia": "Heróis de Arton v1.1, pg. 70",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCHA09003",
+    "nome": "Armadura Avançada",
+    "cabecalho": "Engenhoqueiro",
+    "descricao": "Recebe bônus no teste de ativação de engenhoca acoplada igual ao número de melhorias da armadura. Pode gastar 4 PM para ativar engenhoca acoplada como ação livre. Pré-requisitos: Armadura Mecanizada, 7º nível de inventor.",
+    "anexo": null,
+    "referencia": "Heróis de Arton v1.1, pg. 70",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCHA09004",
+    "nome": "Armadura Mecanizada",
+    "cabecalho": "Engenhoqueiro",
+    "descricao": "Pode acoplar engenhocas em sua armadura (1 em leves, 3 em pesadas). Engenhocas acopladas não contam no limite de itens vestidos e não precisam ser empunhadas. Pré-requisito: Engenhoqueiro.",
+    "anexo": null,
+    "referencia": "Heróis de Arton v1.1, pg. 70",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCHA09005",
+    "nome": "Artesão Criativo",
+    "cabecalho": "Artesão",
+    "descricao": "Você pode usar Ofício (artesão) no lugar de qualquer outro Ofício para qualquer fim (incluindo pré-requisitos). Pré-requisito: treinado em Ofício (artesão).",
+    "anexo": null,
+    "referencia": "Heróis de Arton v1.1, pg. 70",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCHA09006",
+    "nome": "Autômato Alquímico",
+    "cabecalho": "Engenhoqueiro",
+    "descricao": "Seu autômato armazena itens alquímicos (capacidade igual Int). Uma vez por rodada, pode gastar 1 PM para usar um desses itens como ação livre. Pré-requisito: Autômato.",
+    "anexo": null,
+    "referencia": "Heróis de Arton v1.1, pg. 70",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCHA09007",
+    "nome": "Autômato Engenhocado",
+    "cabecalho": "Engenhoqueiro",
+    "descricao": "Permite acoplar uma engenhoca de 1º círculo no autômato. Pode gastar +2 PM para ativá-la como ação de movimento tendo o autômato como origem. Pré-requisito: Autômato Prototipado.",
+    "anexo": null,
+    "referencia": "Heróis de Arton v1.1, pg. 70",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCHA09008",
+    "nome": "Catalisador Experimental",
+    "cabecalho": "Engenhoqueiro",
+    "descricao": "Ao ativar uma engenhoca, você pode usar um catalisador e aplicar seus efeitos a ela. Pré-requisitos: Engenhoqueiro, 5º nível de inventor.",
+    "anexo": null,
+    "referencia": "Heróis de Arton v1.1, pg. 70",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCHA09009",
+    "nome": "Estilista",
+    "cabecalho": "Artesão",
+    "descricao": "Bônus de vestuário próprio aumenta em +1 e se aplica a Diplomacia e Enganação contra criaturas inteligentes. Pré-requisitos: Car 1, treinado em Ofício (alfaiate).",
+    "anexo": null,
+    "referencia": "Heróis de Arton v1.1, pg. 70",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCHA09010",
+    "nome": "Explicação Científica",
+    "cabecalho": null,
+    "descricao": "Ação de movimento e PM (limite Int) para receber resistência a magia igual aos PM gastos até o fim da cena. Pré-requisito: 5º nível de inventor.",
+    "anexo": null,
+    "referencia": "Heróis de Arton v1.1, pg. 70",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCHA09011",
+    "nome": "Explorar Fraqueza",
+    "cabecalho": null,
+    "descricao": "Ao usar Encontrar Fraqueza, também ignora 5 pontos de RD do inimigo até o fim da cena. Pré-requisito: Encontrar Fraqueza.",
+    "anexo": null,
+    "referencia": "Heróis de Arton v1.1, pg. 70",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCHA09012",
+    "nome": "Farmácia Mágica",
+    "cabecalho": "Alquimista",
+    "descricao": "Você pode usar o poder Farmacêutico em poções de cura. Pré-requisitos: Alquimista Iniciado, Farmacêutico.",
+    "anexo": null,
+    "referencia": "Heróis de Arton v1.1, pg. 70",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCHA09013",
+    "nome": "Forçar a Calibragem",
+    "cabecalho": "Engenhoqueiro",
+    "descricao": "Pode sofrer penalidade de –5 no teste de ativação de engenhoca para aumentar a CD de resistência em +2. Pré-requisito: Engenhoqueiro.",
+    "anexo": null,
+    "referencia": "Heróis de Arton v1.1, pg. 70",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCHA09014",
+    "nome": "Galvanização",
+    "cabecalho": "Artesão",
+    "descricao": "Ação padrão para aplicar material especial temporário (até fim da cena) por 5% do preço e sem teste. Não conta no limite de melhorias. Pré-requisito: treinado em Ofício (artesão).",
+    "anexo": null,
+    "referencia": "Heróis de Arton v1.1, pg. 71",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCHA09015",
+    "nome": "Gênio Inovador",
+    "cabecalho": "Artesão",
+    "descricao": "Usa Int em duas perícias. Itens superiores ganham uma melhoria extra gratuita e podem ter dois materiais especiais diferentes. Pré-requisito: 17º nível de inventor.",
+    "anexo": null,
+    "referencia": "Heróis de Arton v1.1, pg. 71",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCHA09016",
+    "nome": "Golpe de Gênio",
+    "cabecalho": "Artesão",
+    "descricao": "Uma vez por aventura, pode usar Engenhosidade duas vezes no mesmo teste ou fabricar item superior/mágico em uma semana. Pré-requisito: 11º nível de inventor.",
+    "anexo": null,
+    "referencia": "Heróis de Arton v1.1, pg. 71",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCHA09017",
+    "nome": "Infusão Distante",
+    "cabecalho": "Alquimista",
+    "descricao": "Gasta 1 PM para usar item alquímico ou poção de toque em alcance curto (médio se tiver Granadeiro). Pré-requisito: Alquimista Iniciado.",
+    "anexo": null,
+    "referencia": "Heróis de Arton v1.1, pg. 71",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCHA09018",
+    "nome": "Oficina Esotérica",
+    "cabecalho": "Armeiro",
+    "descricao": "Usa Oficina de Campo em itens esotéricos (+1 limite PM), poções (2 doses) e pergaminhos (+1 PM em aprimoramento). Pré-requisitos: treinado em Misticismo, Oficina de Campo.",
+    "anexo": null,
+    "referencia": "Heróis de Arton v1.1, pg. 71",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCHA09019",
+    "nome": "Saraivada Alquímica",
+    "cabecalho": "Alquimista",
+    "descricao": "Gasta 2 PM e dose extra para aumentar o dano de um item alquímico ou poção em 50%. Pré-requisitos: Granadeiro, 7º nível de inventor.",
+    "anexo": null,
+    "referencia": "Heróis de Arton v1.1, pg. 71",
+    "tipo": "poder de classe",
+    "origem": null
+  }
+]

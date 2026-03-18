@@ -1,0 +1,262 @@
+[
+  {
+    "id": "PCLB09000",
+    "nome": "Agite Antes de Usar",
+    "cabecalho": "Alquimista",
+    "descricao": "Ao usar um preparado alquímico de dano, pode gastar PM (limite Int). Para cada PM, o item causa um dado extra de dano do mesmo tipo. Pré-requisito: treinado em Ofício (alquimista).",
+    "anexo": null,
+    "referencia": "Tormenta 20 - jogo do ano v1.3, pg. 68",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCLB09001",
+    "nome": "Ajuste de Mira",
+    "cabecalho": "Armeiro",
+    "descricao": "Ação padrão e PM (limite Int) para aprimorar arma à distância. Cada PM concede +1 no dano até o fim da cena. Pré-requisito: Balística.",
+    "anexo": null,
+    "referencia": "Tormenta 20 - jogo do ano v1.3, pg. 68",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCLB09002",
+    "nome": "Alquimista de Batalha",
+    "cabecalho": "Alquimista",
+    "descricao": "Ao usar preparado alquímico ou poção de dano, soma sua Inteligência na rolagem de dano. Pré-requisito: Alquimista Iniciado.",
+    "anexo": null,
+    "referencia": "Tormenta 20 - jogo do ano v1.3, pg. 68",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCLB09003",
+    "nome": "Alquimista Iniciado",
+    "cabecalho": "Alquimista",
+    "descricao": "Recebe livro de fórmulas e pode fabricar poções de 1º e 2º círculos. Pré-requisitos: Int 1, Sab 1, treinado em Ofício (alquimista).",
+    "anexo": null,
+    "referencia": "Tormenta 20 - jogo do ano v1.3, pg. 68",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCLB09004",
+    "nome": "Armeiro",
+    "cabecalho": "Armeiro",
+    "descricao": "Recebe proficiência com armas marciais corpo a corpo e usa Inteligência em vez de Força nos ataques e dano. Pré-requisitos: treinado em Luta e Ofício (armeiro).",
+    "anexo": null,
+    "referencia": "Tormenta 20 - jogo do ano v1.3, pg. 68",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCLB09005",
+    "nome": "Ativação Rápida",
+    "cabecalho": "Engenhoqueiro",
+    "descricao": "Pode pagar 2 PM para ativar uma engenhoca com ação de movimento em vez de padrão. Pré-requisitos: Engenhoqueiro, 7º nível de inventor.",
+    "anexo": null,
+    "referencia": "Tormenta 20 - jogo do ano v1.3, pg. 68",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCLB09006",
+    "nome": "Autômato",
+    "cabecalho": "Engenhoqueiro",
+    "descricao": "Fabrica um construto parceiro que evolui com seu nível (Iniciante, Veterano no 7º, Mestre no 15º). Pré-requisito: Engenhoqueiro.",
+    "anexo": null,
+    "referencia": "Tormenta 20 - jogo do ano v1.3, pg. 69",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCLB09007",
+    "nome": "Autômato Prototipado",
+    "cabecalho": "Engenhoqueiro",
+    "descricao": "Ação padrão e 2 PM para melhoria experimental no autômato (1d6). 2-6: sobe nível de parceiro ou ganha novo tipo; 1: enguiça. Pré-requisito: Autômato.",
+    "anexo": null,
+    "referencia": "Tormenta 20 - jogo do ano v1.3, pg. 69",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCLB09008",
+    "nome": "Balística",
+    "cabecalho": "Armeiro",
+    "descricao": "Proficiência com armas marciais à distância ou de fogo. Usa Inteligência em vez de Destreza nos ataques. Pré-requisitos: treinado em Pontaria e Ofício (armeiro).",
+    "anexo": null,
+    "referencia": "Tormenta 20 - jogo do ano v1.3, pg. 69",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCLB09009",
+    "nome": "Blindagem",
+    "cabecalho": "Armeiro",
+    "descricao": "Usa Inteligência na Defesa com armadura pesada (substitui Destreza e impede outros bônus de atributo). Pré-requisitos: Couraceiro, 8º nível de inventor.",
+    "anexo": null,
+    "referencia": "Tormenta 20 - jogo do ano v1.3, pg. 69",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCLB09010",
+    "nome": "Cano Raiado",
+    "cabecalho": "Armeiro",
+    "descricao": "Armas de disparo feitas por você recebem +1 na margem de ameaça. Pré-requisitos: Balística, 5º nível de inventor.",
+    "anexo": null,
+    "referencia": "Tormenta 20 - jogo do ano v1.3, pg. 69",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCLB09011",
+    "nome": "Catalisador Instável",
+    "cabecalho": "Alquimista",
+    "descricao": "Ação completa e 3 PM para fabricar item alquímico ou poção instantaneamente (meio custo, sem teste, dura até fim da cena). Pré-requisito: Alquimista Iniciado.",
+    "anexo": null,
+    "referencia": "Tormenta 20 - jogo do ano v1.3, pg. 69",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCLB09012",
+    "nome": "Chutes e Palavrões",
+    "cabecalho": "Engenhoqueiro",
+    "descricao": "Pode gastar 1 PM para rerolar teste de Ofício (engenhoqueiro) ao ativar engenhoca (1/rodada). Pré-requisito: Engenhoqueiro.",
+    "anexo": null,
+    "referencia": "Tormenta 20 - jogo do ano v1.3, pg. 69",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCLB09013",
+    "nome": "Conhecimento de Fórmulas",
+    "cabecalho": "Alquimista",
+    "descricao": "Aprende três fórmulas de qualquer círculo disponível. Pode ser escolhido várias vezes. Pré-requisito: Alquimista Iniciado.",
+    "anexo": null,
+    "referencia": "Tormenta 20 - jogo do ano v1.3, pg. 69",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCLB09014",
+    "nome": "Couraceiro",
+    "cabecalho": "Armeiro",
+    "descricao": "Proficiência com armaduras pesadas e escudos. Usa Inteligência na Defesa (substitui Destreza). Pré-requisito: treinado em Ofício (armeiro).",
+    "anexo": null,
+    "referencia": "Tormenta 20 - jogo do ano v1.3, pg. 69",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCLB09015",
+    "nome": "Engenhoqueiro",
+    "cabecalho": "Engenhoqueiro",
+    "descricao": "Permite fabricar engenhocas. Pré-requisitos: Int 3, treinado em Ofício (engenhoqueiro).",
+    "anexo": null,
+    "referencia": "Tormenta 20 - jogo do ano v1.3, pg. 69",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCLB09016",
+    "nome": "Farmacêutico",
+    "cabecalho": "Alquimista",
+    "descricao": "Ao usar item alquímico de cura, gasta PM (limite Int) para adicionar um dado extra de cura por PM. Pré-requisitos: Sab 1, treinado em Ofício (alquimista).",
+    "anexo": null,
+    "referencia": "Tormenta 20 - jogo do ano v1.3, pg. 69",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCLB09017",
+    "nome": "Ferreiro",
+    "cabecalho": "Armeiro",
+    "descricao": "Armas corpo a corpo feitas por você causam dano aumentado em um passo. Pré-requisitos: Armeiro, 5º nível de inventor.",
+    "anexo": null,
+    "referencia": "Tormenta 20 - jogo do ano v1.3, pg. 69",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCLB09018",
+    "nome": "Granadeiro",
+    "cabecalho": "Alquimista",
+    "descricao": "Arremessa itens alquímicos/poções em alcance médio e usa Inteligência na CD do teste de resistência. Pré-requisito: Alquimista de Batalha.",
+    "anexo": null,
+    "referencia": "Tormenta 20 - jogo do ano v1.3, pg. 69",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCLB09019",
+    "nome": "Homúnculo",
+    "cabecalho": "Alquimista",
+    "descricao": "Parceiro ajudante minúsculo com telepatia. Pode gastar 1d6 PV para torná-lo parceiro guardião até o fim da cena. Pré-requisito: Alquimista Iniciado.",
+    "anexo": null,
+    "referencia": "Tormenta 20 - jogo do ano v1.3, pg. 69",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCLB09022",
+    "nome": "Manutenção Eficiente",
+    "cabecalho": "Engenhoqueiro",
+    "descricao": "Limite de engenhocas aumenta em +3 e elas ocupam apenas meio espaço. Pré-requisitos: Engenhoqueiro, 5º nível de inventor.",
+    "anexo": null,
+    "referencia": "Tormenta 20 - jogo do ano v1.3, pg. 69",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCLB09023",
+    "nome": "Mestre Alquimista",
+    "cabecalho": "Alquimista",
+    "descricao": "Pode fabricar poções de qualquer círculo. Pré-requisitos: Int 3, Sab 3, Alquimista Iniciado, 10º nível de inventor.",
+    "anexo": null,
+    "referencia": "Tormenta 20 - jogo do ano v1.3, pg. 69",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCLB09025",
+    "nome": "Mistura Fervilhante",
+    "cabecalho": "Alquimista",
+    "descricao": "Gasta 2 PM ao usar item alquímico ou poção para dobrar sua área de efeito. Pré-requisitos: Alquimista Iniciado, 5º nível de inventor.",
+    "anexo": null,
+    "referencia": "Tormenta 20 - jogo do ano v1.3, pg. 69",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCLB09026",
+    "nome": "Oficina de Campo",
+    "cabecalho": "Armeiro",
+    "descricao": "Gasta 1 hora e 2 PM para dar bônus de +1 em ataques (armas) ou Defesa (armadura/escudo) para o grupo por um dia. Pré-requisito: treinado em Ofício (armeiro).",
+    "anexo": null,
+    "referencia": "Tormenta 20 - jogo do ano v1.3, pg. 70",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCLB09027",
+    "nome": "Pedra de Amolar",
+    "cabecalho": "Armeiro",
+    "descricao": "Ação de movimento e PM (limite Int) para arma corpo a corpo. Cada PM concede +1 no dano até o final da cena. Pré-requisito: Armeiro.",
+    "anexo": null,
+    "referencia": "Tormenta 20 - jogo do ano v1.3, pg. 70",
+    "tipo": "poder de classe",
+    "origem": null
+  },
+  {
+    "id": "PCLB09028",
+    "nome": "Síntese Rápida",
+    "cabecalho": "Alquimista",
+    "descricao": "Quando fabrica um item alquímico ou poção, você pode gastar 1 PM para realizar o trabalho em uma cena (em vez de um dia). Pré-requisito: Alquimista Iniciado.",
+    "anexo": null,
+    "referencia": "Tormenta 20 - jogo do ano v1.3, pg. 70",
+    "tipo": "poder de classe",
+    "origem": null
+  }
+]
